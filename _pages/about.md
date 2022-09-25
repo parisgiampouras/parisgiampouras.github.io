@@ -5,7 +5,7 @@ permalink: /
 subtitle: <a href='#'>MINDS, Johns Hopkins University</a>. Baltimore, MD, USA. parisg@jhu.edu. Λάθε Βιώσας. Etc.
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
