@@ -10,8 +10,9 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
     <p>555  Clark Hall 319 </p>
-    <p>123 N. Charles 3400</p>
-    <p>Your Baltimore, MD 21214</p>
+    <p>123 3400 N. Charles St </p>
+    <p>Baltimore, MD 21218</p>
+     <p>USA</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
