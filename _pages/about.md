@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>MINDS, Johns Hopkins University</a>. Baltimore, MD, USA. parisg@jhu.edu. Λάθε Βιώσας. Etc.
 
 profile:
   align: right
