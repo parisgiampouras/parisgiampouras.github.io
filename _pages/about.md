@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.minds.jhu.edu#'>MINDS, Johns Hopkins University</a>, parisg@jhu.edu. 
+subtitle: <a href='https://www.minds.jhu.edu#'>Associate Research Scientist @ MINDS, Johns Hopkins University</a>. 
 
 profile:
   align: right
