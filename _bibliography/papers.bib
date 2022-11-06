@@ -14,7 +14,8 @@
  number={2},  
  pages={490-503}, 
  doi={10.1109/TSP.2018.2883921},
- selected={true}
+ selected={true},
+ abstract{Nowadays, the availability of large-scale data in disparate application domains urges the deployment of sophisticated tools for extracting valuable knowledge out of this huge bulk of information. In that vein, low-rank representations (LRRs), which seek low-dimensional embeddings of data have naturally appeared. In an effort to reduce computational complexity and improve estimation performance, LRR has been viewed via a matrix factorization (MF) perspective. Recently, low-rank MF (LRMF) approaches have been proposed for tackling the inherent weakness of MF, i.e., the unawareness of the dimension of the low-dimensional space where data reside. Herein, inspired by the merits of iterative reweighted schemes for sparse recovery and rank minimization, we come up with a generic low-rank promoting regularization function. Then, focusing on a specific instance of it, we propose a regularizer that imposes column-sparsity jointly on the two matrix factors that result from MF, thus promoting low-rankness on the optimization problem. The low-rank promoting properties of the resulting regularization term are brought to light by mathematically showing that it is actually a tight upper bound of a specific version of the weighted nuclear norm. The problems of denoising and matrix completion are redefined according to the new LRMF formulation and solved via efficient alternating iteratively reweighted least squares type algorithms. Theoretical analysis of the algorithms regarding the convergence and the rates of convergence to stationary points is provided. The effectiveness of the proposed algorithms is verified in diverse simulated and real data experiments.}
  }
 
  @article{7460933, 
@@ -28,7 +29,8 @@
  volume={54},  
  number={8},  
  pages={4775-4789}, 
- doi={10.1109/TGRS.2016.2551327}
+ doi={10.1109/TGRS.2016.2551327},
+ abstract = {In a plethora of applications dealing with inverse problems, e.g., image processing, social networks, compressive sensing, and biological data processing, the signal of interest is known to be structured in several ways at the same time. This premise has recently guided research into the innovative and meaningful idea of imposing multiple constraints on the unknown parameters involved in the problem under study. For instance, when dealing with problems whose unknown parameters form sparse and low-rank matrices, the adoption of suitably combined constraints imposing sparsity and low rankness is expected to yield substantially enhanced estimation results. In this paper, we address the spectral unmixing problem in hyperspectral images. Specifically, two novel unmixing algorithms are introduced in an attempt to exploit both spatial correlation and sparse representation of pixels lying in the homogeneous regions of hyperspectral images. To this end, a novel mixed penalty term is first defined consisting of the sum of the weighted ℓ 1 and the weighted nuclear norm of the abundance matrix corresponding to a small area of the image determined by a sliding square window. This penalty term is then used to regularize a conventional quadratic cost function and impose simultaneous sparsity and low rankness on the abundance matrix. The resulting regularized cost function is minimized by: 1) an incremental proximal sparse and low-rank unmixing algorithm; and 2) an algorithm based on the alternating direction method of multipliers. The effectiveness of the proposed algorithms is illustrated in experiments conducted both on simulated and real data.}
  }
 
  @article{GIAMPOURAS2017199,
@@ -63,7 +65,8 @@
  author={Rontogiannis, Athanasios A. and Giampouras, Paris V. and Koutroumbas, Konstantinos D.},
  journal={IEEE Signal Processing Letters},   title={Online Reweighted Least Squares Robust PCA},  
  year={2020},  volume={27},  number={},  pages={1340-1344}, 
- doi={10.1109/LSP.2020.3011896}
+ doi={10.1109/LSP.2020.3011896},
+ abstract = {The letter deals with the problem known as robust principal component analysis (RPCA), that is, the decomposition of a data matrix as the sum of a low-rank matrix component and a sparse matrix component. After expressing the low-rank matrix component in factorized form, we develop a novel online RPCA algorithm that is based entirely on reweighted least squares recursions and is appropriate for sequential data processing. The proposed algorithm is fast, memory optimal and, as corroborated by indicative empirical results on simulated data and a video processing application, competitive to the state-of-the-art in terms of estimation performance.}
  }
  
 @inproceedings{
@@ -75,7 +78,16 @@
  booktitle={International Conference on Learning Representations},
  year={2022},
  url={https://openreview.net/forum?id=vA7doMdgi75},
- selected={true}
+ selected={true},
+ abstract = {Robust subspace recovery (RSR) is the problem of learning a subspace from sample data points corrupted by outliers. Dual Principal Component Pursuit (DPCP) is a robust subspace recovery method that aims to find a basis for the orthogonal complement of the subspace by minimizing the sum of the distances of the points to the subspaces subject to orthogonality constraints on the basis. Prior work has shown that DPCP can provably recover the correct subspace in the presence of outliers as long as the true dimension of the subspace is known. In this paper, we show that if the orthogonality constraints --adopted in previous DPCP formulations-- are relaxed and random initialization is used instead of spectral one, DPCP can provably recover a subspace of \emph{unknown dimension}. Specifically, we propose a very simple algorithm based on running multiple instances of a projected sub-gradient descent method (PSGM), with each problem instance seeking to find one vector in the null space of the subspace. We theoretically prove that under mild conditions this approach succeeds with high probability. In particular, we show that 1) all of the problem instances will converge to a vector in the nullspace of the subspace and 2) the ensemble of problem instance solutions will be sufficiently diverse to fully span the nullspace of the subspace thus also revealing its true unknown codimension. We provide empirical results that corroborate our theoretical results and showcase the remarkable implicit rank regularization behavior of the PSGM algorithm that allows us to perform RSR without knowing the subspace dimension}
+ 
+ }
+ 
+ @ARTICLE{9321500,  author={Rontogiannis, Athanasios A. and Kofidis, Eleftherios and Giampouras, Paris V.},  
+ journal={IEEE Journal of Selected Topics in Signal Processing},   
+ title={Block-Term Tensor Decomposition: Model Selection and Computation},   
+ year={2021},  volume={15},  number={3},  pages={464-475},  doi={10.1109/JSTSP.2021.3051488},
+ abstract = 	 {The so-called block-term decomposition (BTD) tensor model has been recently receiving increasing attention due to its enhanced ability of representing systems and signals that are composed of blocks of rank higher than one, a scenario encountered in numerous and diverse applications. Its uniqueness and approximation have thus been thoroughly studied. Nevertheless, the challenging problem of estimating the BTD model structure, namely the number of block terms and their individual ranks, has only recently started to attract significant attention. In this paper, a novel method of BTD model selection and computation is proposed, based on the idea of imposing column sparsity jointly on the factors and in a hierarchical manner and estimating the ranks as the numbers of factor columns of non-negligible magnitude. Following a block successive upper bound minimization (BSUM) approach for the proposed optimization problem is shown to result in an alternating hierarchical iteratively reweighted least squares (HIRLS) algorithm, which is fast converging and enjoys high computational efficiency, as it relies in its iterations on small-sized sub-problems with closed-form solutions. Simulation results for both synthetic examples and a hyper-spectral image denoising application are reported, which demonstrate the superiority of the proposed scheme over the state-of-the-art in terms of success rate in rank estimation as well as computation time and rate of convergence while attaining a comparable tensor approximation performance.}
  }
 
 @InProceedings{pmlr-v162-thaker22a,
