@@ -2,7 +2,7 @@
 layout: page
 title: Robust Subspace Recovery of Subspaces of Unknown Codimension
 description: a project with a background image
-img: assets/img/12.jpg
+img: assets/img/Prop.jpg
 importance: 1
 category: work
 ---
