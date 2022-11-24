@@ -20,5 +20,9 @@ Robust subspace recovery (RSR) is a fundamental problem in robust representation
     
 </div>
  <div class="caption">
-   (left) Orhogonal DPCP  and (right) Proposed DPCP 
+   (left) Orhogonal DPCP [1] and (right) Proposed DPCP [2]
 </div>
+
+[1] Zhihui Zhu, Tianyu Ding, Daniel Robinson, Manolis Tsakiris, René Vidal, "A Linearly Convergent Method for Non-Smooth Non-Convex Optimization
+on the Grassmannian with Applications to Robust Subspace and Dictionary Learning", NeurIPS, 2019.
+[2] Paris Giampouras, Benjamin Haeffele, Rene Vidal, "Implicit Bias of Projected Subgradient Method Gives Provable Robust Recovery of Subspaces of Unknown Codimension", ICLR, 2022. 
