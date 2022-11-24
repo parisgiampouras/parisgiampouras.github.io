@@ -11,12 +11,12 @@ In this work we aim to reduce the high computational cost induced by Schatten-p 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/graphics_neurips.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
    
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
+
+
+[1] Paris Giampouras, René Vidal, Athanasios Rontogiannis, Benjamin Haeffele, "A novel variational form of the Schatten-p quasi-norm", NeurIPS, 2020.
 
 
