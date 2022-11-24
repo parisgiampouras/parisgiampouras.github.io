@@ -22,6 +22,3 @@ Robust subspace recovery (RSR) is a fundamental problem in robust representation
  <div class="caption">
    (left) Orhogonal DPCP  and (right) Proposed DPCP 
 </div>
-
-```
-{% endraw %}
