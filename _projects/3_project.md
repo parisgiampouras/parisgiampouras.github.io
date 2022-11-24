@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tensor decomposition
+title: Tensors
 description: Model Selection and Computation for Block-Term Tensor Decomposition
 img: assets/img/BTD.jpg
 redirect: 
