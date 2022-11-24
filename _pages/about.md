@@ -18,6 +18,6 @@ news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-PAGE UNDER CONSTRUCTION!!! I am a Research Faculty member of the Mathematical Institute for Data Science (MINDS) of the Johns Hopkins University working with Prof. Rene Vidal. 
-My research interests span areas in machine learning and signal processing. My research endeavors focus on representation learning, deep generative models and continual learning. I aim to devise efficient and reliable algorithms for analyzing high-dimensional and large-scale datasets. My work is interdisciplinary and touches upon topics at the intersection of convex/nonconvex optimization theory, Bayesian inference, high-dimensional probability theory, image processing, computer vision and robust ML. My latest research interests are in theory and algorithms for inverse problems using pretrained deep generative models.
+I am a Research Faculty member of the Mathematical Institute for Data Science (MINDS) of the Johns Hopkins University working with Prof. Rene Vidal. 
+My research interests span areas in machine learning and signal processing. Specifically, I focus on parsimonious representation learning with applications to deep generative models and continual learning. My work is interdisciplinary and touches upon topics at the intersection of convex/nonconvex optimization theory, Bayesian inference, high-dimensional probability theory, image processing, computer vision and trustworthy ML. 
 
