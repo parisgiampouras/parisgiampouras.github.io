@@ -2,7 +2,7 @@
 layout: page
 title: Low-rank Matrix Factorization
 description: A Novel Variational Form of the Schatten-p Quasi-Norm
-img: assets/img/graphics_neurips.jpg
+img: assets/img/graphic_neurips.jpg
 importance: 2
 category: work
 ---
@@ -11,7 +11,7 @@ In this work we aim to reduce the high computational cost induced by Schatten-p 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/graphics_neurips.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/graphic_neurips.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
    
 </div>
