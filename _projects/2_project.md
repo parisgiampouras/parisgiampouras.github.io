@@ -2,7 +2,7 @@
 layout: page
 title: Low-rank Matrix Factorization
 description: A Novel Variational Form of the Schatten-p Quasi-Norm
-img: assets/img/3.jpg
+img: assets/img/graphics_neurips.jpg
 importance: 2
 category: work
 ---
