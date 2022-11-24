@@ -2,7 +2,7 @@
 layout: page
 title: Tensors
 description: Model Selection and Computation for Block-Term Tensor Decomposition
-img: assets/img/BTD.jpg
+img: assets/img/Bayesian_BTD.jpg
 redirect: 
 importance: 3
 category: research
