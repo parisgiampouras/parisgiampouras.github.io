@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Robust Subspace Recovery of Subspaces of Unknown Codimension
-description: a project with a background image
+title: Robust Subspace Recovery
+description: Recovering Subspaces of Unknown Dimension in The Presence of Outliers
 img: assets/img/Prop.jpg
 importance: 1
 category: work
