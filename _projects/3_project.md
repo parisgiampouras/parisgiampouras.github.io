@@ -26,7 +26,8 @@ The so-called block-term decomposition (BTD) tensor model has been recently rece
 </div>
 
 
-[1] Athanasios A Rontogiannis, Eleftherios Kofidis, Paris V Giampouras, "Block-term tensor decomposition: Model selection and computation", IEEE Journal on Selected Topics on Signal Processing, 2021.
+[1] Athanasios A Rontogiannis, Eleftherios Kofidis, Paris V Giampouras, "Block-term tensor decomposition: Model selection and computation", IEEE Journal on Selected Topics on Signal Processing, 2021.__
+    
     
 [2] Paris V Giampouras, Athanasios A Rontogiannis, Eleftherios Kofidis, "Block-Term Tensor Decomposition Model Selection and Computation: The Bayesian Way" IEEE Transactions on Signal Processing, 2022.
 
