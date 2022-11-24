@@ -1,10 +1,10 @@
 ---
 ---
-@INPROCEEDINGS{8077560, 
+@articles{8077560, 
 abbr={IEEE WHISPERS},
 bibtex_show={true},
 author={Giampouras, Paris and Themelis, Konstantinos E. and Rontogiannis, Athanasios A. and Koutroumbas, Konstantinos D.},  
-booktitle={2014 6th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS)},   
+journal={6th Workshop on Hyperspectral Image and Signal Processing: Evolution in Remote Sensing (WHISPERS)},   
 title={A variational Bayes algorithm for joint-sparse abundance estimation}, 
 year={2014},
 volume={}, 
@@ -14,12 +14,12 @@ doi={10.1109/WHISPERS.2014.8077560},
 abstract = {This paper presents a variational Bayesian scheme for semi-supervised unmixing on hyperspectral images that exploits the inherent spatial correlation between neighboring pixels. More specifically, a hierarchical Bayesian model that promotes a joint-sparse profile on the abundance vectors of adjacent pixels is developed and a computationally efficient variational Bayes algorithm is incorporated to perform Bayesian inference. The benefits of the proposed joint-sparse model are demonstrated via simulations on both synthetic and real data.}
 }
 
-@ @ARTICLE{rontogiannis2021online,
+@ARTICLE{rontogiannis2021online,
   abbr={ASILOMAR 2021},
   bibtex_show={true},
   title={Online rank-revealing block-term tensor decomposition},
   author={Rontogiannis, Athanasios A and Kofidis, Eleftherios and Giampouras, Paris},
-  booktitle={55th Asilomar Conference on Signals, Systems, and Computers},
+  journal={55th Asilomar Conference on Signals, Systems, and Computers},
   pages={1678--1682},
   year={2021},
   organization={IEEE}
@@ -51,7 +51,6 @@ abstract = {This paper presents a variational Bayesian scheme for semi-supervise
  number={2},  
  pages={490-503}, 
  doi={10.1109/TSP.2018.2883921},
- selected={true},
  abstract = {Nowadays, the availability of large-scale data in disparate application domains urges the deployment of sophisticated tools for extracting valuable knowledge out of this huge bulk of information. In that vein, low-rank representations (LRRs), which seek low-dimensional embeddings of data have naturally appeared. In an effort to reduce computational complexity and improve estimation performance, LRR has been viewed via a matrix factorization (MF) perspective. Recently, low-rank MF (LRMF) approaches have been proposed for tackling the inherent weakness of MF, i.e., the unawareness of the dimension of the low-dimensional space where data reside. Herein, inspired by the merits of iterative reweighted schemes for sparse recovery and rank minimization, we come up with a generic low-rank promoting regularization function. Then, focusing on a specific instance of it, we propose a regularizer that imposes column-sparsity jointly on the two matrix factors that result from MF, thus promoting low-rankness on the optimization problem. The low-rank promoting properties of the resulting regularization term are brought to light by mathematically showing that it is actually a tight upper bound of a specific version of the weighted nuclear norm. The problems of denoising and matrix completion are redefined according to the new LRMF formulation and solved via efficient alternating iteratively reweighted least squares type algorithms. Theoretical analysis of the algorithms regarding the convergence and the rates of convergence to stationary points is provided. The effectiveness of the proposed algorithms is verified in diverse simulated and real data experiments.}
  }
 
@@ -123,6 +122,7 @@ abstract = {This paper presents a variational Bayesian scheme for semi-supervise
  @ARTICLE{9735405,  author={Giampouras, Paris V. and Rontogiannis, Athanasios A. and Kofidis, Eleftherios}, 
  abbr={IEEE TSP},
  bibtex_show={true},
+ selected={true},
  journal={IEEE Transactions on Signal Processing},   title={Block-Term Tensor Decomposition Model Selection and Computation: The Bayesian Way},   year={2022},  volume={70},  number={},  pages={1704-1717},  doi={10.1109/TSP.2022.3159029},
  abstract = {The so-called block-term decomposition (BTD) tensor model, especially in its rank- (Lr,Lr,1) version, has been recently receiving increasing attention due to its enhanced ability of representing systems and signals that are composed of blocks of rank higher than one, a scenario encountered in numerous and diverse applications. Uniqueness conditions and fitting methods have thus been thoroughly studied. Nevertheless, the challenging problem of estimating the BTD model structure, namely the number of block terms, R , and their individual ranks, Lr , has only recently started to attract significant attention, mainly through regularization-based approaches which entail the need to tune the regularization parameter(s). In this work, we build on ideas of sparse Bayesian learning (SBL) and put forward a fully automated Bayesian approach. Through a suitably crafted multi-level hierarchical probabilistic model, which gives rise to heavy-tailed prior distributions for the BTD factors, structured sparsity is jointly imposed. Ranks are then estimated from the numbers of blocks ( R ) and columns ( Lr ) of non-negligible energy. Approximate posterior inference is implemented, within the variational inference framework. The resulting iterative algorithm completely avoids hyperparameter tuning, which is a significant defect of regularization-based methods. Alternative probabilistic models are also explored and the connections with their regularization-based counterparts are brought to light with the aid of the associated maximum a-posteriori (MAP) estimators. We report simulation results with both synthetic and real-word data, which demonstrate the merits of the proposed method in terms of both rank estimation and model fitting as compared to state-of-the-art relevant methods.}
  }
@@ -141,7 +141,7 @@ abstract = {This paper presents a variational Bayesian scheme for semi-supervise
   abbr={ICML},
   bibtex_show={true},
   title = 	 {Reverse Engineering $\ell_p$ attacks: A block-sparse optimization approach with recovery guarantees},
-  author =       {Thaker, Darshan* and Giampouras, Paris* and Vidal, Rene (equal contribution)},
+  author =       {Thaker, Darshan* and Giampouras, Paris * and Vidal (equal contribution), Rene},
   journal = 	 {39th International Conference on Machine Learning},
   pages = 	 {21253--21271},
   year = 	 {2022},
