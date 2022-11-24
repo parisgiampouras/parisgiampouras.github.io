@@ -13,15 +13,14 @@ Robust subspace recovery (RSR) is a fundamental problem in robust representation
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/orth_DPCP.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="caption">
-    Orhogonal DPCP 
-</div>
+   
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Prop.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-     <div class="caption">
-    Proposed DPCP 
+    
 </div>
+ <div class="caption">
+   (left) Orhogonal DPCP  and (right) Proposed DPCP 
 </div>
 
 ```
