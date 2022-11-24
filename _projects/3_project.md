@@ -3,7 +3,7 @@ layout: page
 title: Tensor decomposition
 description: Model Selection and Computation for Block-Term Tensor Decomposition
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: 
 importance: 3
 category: work
 ---
@@ -32,10 +32,13 @@ The so-called block-term decomposition (BTD) tensor model has been recently rece
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    (left) the Block-Term tensor Decomposition model (BTD) right) The hierarchical Bayesian network employed in [2]
 </div>
 
-[1] 
+
+[1] Athanasios A Rontogiannis, Eleftherios Kofidis, Paris V Giampouras, "Block-term tensor decomposition: Model selection and computation", IEEE Journal on Selected Topics on Signal Processing, 2021.
+[2] Paris V Giampouras, Athanasios A Rontogiannis, Eleftherios Kofidis, "Block-Term Tensor Decomposition Model Selection and Computation: The Bayesian Way" IEEE Transactions on Signal Processing, 2022.
+
 
 
 
