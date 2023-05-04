@@ -30,7 +30,7 @@ The goal of continual learning is to find a model that solves multiple learning 
     
 2. A Clustering-based Task Agnostic Continual Learning Algorithm    
     
-We consider the problem of learning multiple tasks in a continual learning setting in which data from different tasks is presented to the learner in a streaming fashion. A key challenge in this setting is the so-called ``catastrophic forgetting problem", in which the performance of the learner in an ``old task" decreases when subsequently trained on a ``new task". In this paper, we alleviate the need to provide the algorithm with information about task changes while requiring constant memory about prior tasks by dynamically updating a finite pool of samples or gradients in a task-agnostic manner using a simple and efficient online clustering-based approach.     
+We consider the problem of learning multiple tasks in a continual learning setting in which data from different tasks is presented to the learner in a streaming fashion. A key challenge in this setting is the so-called ``catastrophic forgetting problem", in which the performance of the learner in an old task decreases when subsequently trained on a new task. In this paper, we alleviate the need to provide the algorithm with information about task changes while requiring constant memory about prior tasks by dynamically updating a finite pool of samples or gradients in a task-agnostic manner using a simple and efficient online clustering-based approach.     
     
     <div class="row">
      <div class="col-sm mt-3 mt-md-0">
