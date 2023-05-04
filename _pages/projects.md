@@ -59,6 +59,7 @@ horizontal: false
 
 <style>
 .projects .card img {
-  max-height: 200px;
+  max-height: 400px;
+  max-width: 400px;
 }
 </style>
