@@ -1,7 +1,7 @@
 
 ---
 layout: page
-title: Tensors
+title: Adversarial Robustness
 description: Adversarial Robustness and Trustworthy AI
 img: assets/img/CL_paper_graphic.001.png
 redirect: 
