@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tensors
-description: Continual Learning: Theory and Algorithms
+description: Continual Learning - Theory and Algorithms
 img: assets/img/CL_paper_graphic.001.png
 redirect: 
 importance: 4
