@@ -10,17 +10,6 @@ horizontal: false
 ---
 
 <!-- pages/projects.md -->
-<style>
-.projects {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-.projects .project {
-  margin: 20px;
-}
-</style>
-
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
