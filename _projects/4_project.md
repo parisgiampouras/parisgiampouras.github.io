@@ -32,5 +32,5 @@ We consider the problem of learning multiple tasks in a continual learning setti
 
 ## References
 
-[1] L. Peng, P. V. Giampouras, R. Vidal, "The Ideal Continual Learner: An Agent that Never Forgets", ICML, 2023
-[2] C. Laamers, R. Vidal, N. Belbachir, N. van Stein, T. Baeck, P. V. Giampouras, "A Clustering-based Task Agnostic Continual Learning Algorithm", (under review), 2023
+1. L. Peng, P. V. Giampouras, R. Vidal, "The Ideal Continual Learner: An Agent that Never Forgets", ICML, 2023
+2. C. Laamers, R. Vidal, N. Belbachir, N. van Stein, T. Baeck, P. V. Giampouras, "A Clustering-based Task Agnostic Continual Learning Algorithm", (under review), 2023
