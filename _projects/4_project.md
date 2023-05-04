@@ -21,8 +21,7 @@ The goal of continual learning is to find a model that solves multiple learning 
     </div>
     </div>
     <div class="caption">
-    <div class="caption">
-        the Block-Term tensor Decomposition model (BTD) 
+        The univfying Ideal Continual Learning Framework and Related Approaches
     </div>
     
     
