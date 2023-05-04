@@ -9,7 +9,24 @@ display_categories: [research]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<style>
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.projects-card {
+  max-width: 400px;
+}
+
+.projects-card img {
+  max-width: 100%;
+  height: auto;
+}
+</style>
+
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -56,10 +73,3 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
-
-<style>
-.projects .card img {
-  max-height: 400px;
-  max-width: 400px;
-}
-</style>
