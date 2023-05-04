@@ -56,3 +56,9 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+
+<style>
+.projects .card img {
+  max-height: 200px;
+}
+</style>
