@@ -6,7 +6,7 @@ description: Recent Projects (more projects soon to be added)
 nav: true
 nav_order: 2
 display_categories: [research]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
@@ -58,6 +58,14 @@ horizontal: false
 </div>
 
 <style>
+.projects .project {
+  width: 50%;
+  padding: 10px;
+  box-sizing: border-box;
+  display: inline-block;
+  vertical-align: top;
+}
+
 .projects .project img {
   max-width: 100%;
   height: auto;
