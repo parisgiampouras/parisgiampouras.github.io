@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.minds.jhu.edu#'>Associate Research Scientist @ MINDS, Johns Hopkins University</a>. 
+subtitle: <a href='https://www.minds.jhu.edu#'>Assistant Professor @ Department of Computer Science, University of Warwick</a>. 
 
 profile:
   align: right
