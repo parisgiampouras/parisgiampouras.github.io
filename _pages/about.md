@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.minds.jhu.edu#'>Assistant Professor @ Department of Computer Science, University of Warwick</a>. 
+subtitle: <a href='https://www.dcs.warwick.ac.uk#'>Assistant Professor @ Department of Computer Science, University of Warwick</a>. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>CS2.31  Computer Science </p>
-    <p>Building, Coventry </p>
+    <p>CS2.31,Dep. of Computer Science </p>
     <p>University of Warwick,</p>
+    <p> Coventry </p>
      <p>CV4 7AL, UK</p>
 
 news: true  # includes a list of news items
