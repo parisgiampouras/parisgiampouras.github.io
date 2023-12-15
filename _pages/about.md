@@ -11,8 +11,8 @@ profile:
   address: >
     <p>CS2.31  Computer Science </p>
     <p>Building, Coventry </p>
-    <p>University of Warwick, CV4 7AL </p>
-     <p>UK</p>
+    <p>University of Warwick,</p>
+     <p>CV4 7AL, UK</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
