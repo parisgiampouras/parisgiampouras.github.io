@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>CS2.31,Dep. of Computer Science </p>
+    <p>MB2.30,Mathematical Sciences Building </p>
     <p>University of Warwick,</p>
     <p> Coventry </p>
      <p>CV4 7AL, UK</p>
