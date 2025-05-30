@@ -6,7 +6,7 @@ description: Representational AI lab
 permalink: /repsai/
 ---
 
-![RepsAI Lab Logo](/assets/img/repsai-lab.png)
+![RepsAI Lab Logo](/assets/img/repsai_lab.png)
 
 ## PhD Students
 
