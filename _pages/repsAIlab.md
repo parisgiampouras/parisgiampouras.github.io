@@ -6,10 +6,12 @@ description: Representational AI lab
 permalink: /repsai/
 ---
 
+![RepsAI Lab Logo](/assets/img/repsai-lab.png)
+
 ## PhD Students
 
 - **Loukas Sfountouris** (2024–present)  (Main supervisor)
-  Reseaech on Deep Generative Models.  
+  Research on Deep Generative Models.  
   [Website](https://.....com) · [Email](mailto:loukas.sfountouris@warwick.ac.uk)
 
 - **Xietao Wang Li** (2024–present)  (Co-supervisor)
