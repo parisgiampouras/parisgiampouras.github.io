@@ -10,14 +10,9 @@ on:
       - master
       - main
 
-
-
-
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    
 
     steps:
     - name: Checkout code
@@ -27,16 +22,12 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.0.2'
-        bundler-cache: true
+        bundler-cache: false  # Disable cache to avoid stale gem issues
 
-    - name: Install Bundler (force compatible version)
+    - name: Fix Bundler and install dependencies
       run: |
         gem uninstall bundler -aIx || true
-        gem install bundler:2.4.22
-        bundle _2.4.22_ install
-
-    - name: Install Ruby dependencies
-      run: |
+        gem install bundler -v 2.4.22
         bundle _2.4.22_ install
 
     - name: Install extra deps (mermaid-cli)
@@ -48,13 +39,15 @@ jobs:
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        if [[ ${GITHUB_REF} = refs/pull/*/merge ]]; then
-          echo "SRC_BRANCH=${GITHUB_HEAD_REF}" >> $GITHUB_OUTPUT
-          echo "NO_PUSH=--no-push" >> $GITHUB_OUTPUT
-        elif [[ ${GITHUB_REF} = refs/heads/* ]]; then
-          echo "SRC_BRANCH=${GITHUB_REF#refs/heads/}" >> $GITHUB_OUTPUT
-        fi
-        echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_OUTPUT
+        {
+          if [[ "${GITHUB_REF}" == refs/pull/*/merge ]]; then
+            echo "SRC_BRANCH=${GITHUB_HEAD_REF}"
+            echo "NO_PUSH=--no-push"
+          elif [[ "${GITHUB_REF}" == refs/heads/* ]]; then
+            echo "SRC_BRANCH=${GITHUB_REF#refs/heads/}"
+          fi
+          echo "DEPLOY_BRANCH=gh-pages"
+        } >> "$GITHUB_OUTPUT"
 
     - name: Deploy website
       run: |
