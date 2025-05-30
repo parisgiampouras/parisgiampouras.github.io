@@ -2,6 +2,7 @@
 layout: page
 title: RepsAI Lab
 nav: true
+description: Representational AI lab
 permalink: /repsai/
 ---
 
