@@ -23,3 +23,5 @@ I am an Assistant Professor of ML/AI at the Department of Computer Science, Univ
 
 My research combines machine learning and signal processing, focusing on parsimonious representation learning and its applications in deep generative models, continual learning, and trustworthy ML. 
 
+
+**Potential collaborators and students interested in working with me are encouraged to [get in touch](mailto:paris.giampouras@warwick.ac.uk).**
