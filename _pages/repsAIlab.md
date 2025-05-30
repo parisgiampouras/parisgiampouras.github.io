@@ -1,6 +1,7 @@
 ---
 layout: page
 title: RepsAI Lab
+nav: true
 permalink: /repsai/
 ---
 
