@@ -7,7 +7,7 @@ permalink: /repsai/
 ---
 
 <p align="center">
-  <img src="/assets/img/repsai-lab.png" alt="RepsAI Lab" width="300" style="border-radius: 12px;" />
+  <img src="/assets/img/repsai_lab.png" alt="RepsAI Lab" width="300" style="border-radius: 12px;" />
 </p>
 
 ## PhD Students
