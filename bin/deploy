@@ -97,11 +97,6 @@ export JEKYLL_ENV=production
 # Build site
 bundle exec jekyll build
 
-on:
-  push:
-    branches: [main, master]
-  pull_request:
-    branches: [main, master]
 
 jobs:
   deploy:
