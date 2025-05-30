@@ -24,6 +24,10 @@ jobs:
         ruby-version: '3.0.2'
         bundler-cache: false  # Disable cache to avoid stale gem issues
 
+    - name: Install ImageMagick
+      run: sudo apt-get update && sudo apt-get install -y imagemagick
+
+
     - name: Fix Bundler and install dependencies
       run: |
         gem uninstall bundler -aIx || true
