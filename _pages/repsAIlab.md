@@ -9,7 +9,6 @@ permalink: /repsai/
 <!-- =========  HERO  ========= -->
 <div class="lab-hero">
   <img src="/assets/img/repsai_lab.png" alt="RepsAI Lab" class="lab-logo">
-  <h1>RepsAI Lab</h1>
   <p class="tagline">
     Researching representations for trustworthy, generative & continual AI
   </p>
