@@ -10,8 +10,7 @@ profile:
   image_circular: true
   address: >
     <p>MB2.30, Mathematical Sciences Building</p>
-    <p>University of Warwick,</p>
-    <p>UK</p>
+    <p>University of Warwick,UK </p>
 
 news: true
 selected_papers: true
