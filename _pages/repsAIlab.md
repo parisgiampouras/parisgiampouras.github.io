@@ -4,6 +4,7 @@ title: RepsAI Lab
 nav: true
 description: Representational AI Lab
 permalink: /repsai/
+nav_order: 3
 ---
 
 <!-- =========  HERO  ========= -->
