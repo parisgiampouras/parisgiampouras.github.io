@@ -23,7 +23,7 @@ I am an Assistant Professor of ML/AI at the [Department of Computer Science, Uni
 
 My research combines machine learning and signal processing, focusing on parsimonious representation learning and its applications in deep generative models, continual learning, and trustworthy ML. 
 
-**I co-organize the [Foundations of AI Seminar series](https://faiseminarswarwick.github.io). If you’d like to be considered as a future speaker, please [reach out](mailto:paris.giampouras@warwick.ac.uk)!**
+**I co-organize the [Foundations of AI Seminar (FAIS)](https://faiseminarswarwick.github.io) series. If you’d like to be considered as a future speaker, please [reach out](mailto:paris.giampouras@warwick.ac.uk)!**
 
 
 **Prospective collaborators and students interested in working with me are highly encouraged to ([e-mail](mailto:paris.giampouras@warwick.ac.uk)) me!**
