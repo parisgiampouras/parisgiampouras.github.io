@@ -27,3 +27,33 @@ My research combines machine learning and signal processing, focusing on parsimo
 
 
 **Prospective collaborators and students interested in working with me are highly encouraged to [e-mail](mailto:paris.giampouras@warwick.ac.uk) me!**
+
+
+<!-- =========================  ANNOUNCEMENT BANNER  ========================= -->
+<div class="course-announcement">
+  <span class="badge">NEW</span>
+
+  <h2>Weekend Course: Generative&nbsp;AI — From Theory&nbsp;to&nbsp;Practice</h2>
+
+<!--  <p class="course-meta">
+    <strong>Date:</strong>  <em>DD–DD&nbsp;MONTH&nbsp;2025</em>  &nbsp;·&nbsp;
+    <strong>Time:</strong>  <em>09:30-17:30 (both days)</em>  &nbsp;·&nbsp;
+    <strong>Venue:</strong> <em>MB0.08, University&nbsp;of&nbsp;Warwick</em>
+  </p>
+-->
+  <p>
+    Two packed days demystifying large-language models, diffusion models, and prompt
+    engineering.  Short lectures alternate with <strong>hands-on labs</strong> using
+    <em>Stable Diffusion&nbsp;3</em> and <em>GPT-4o</em>.
+  </p>
+
+  <p class="course-meta">
+    <strong>Open to:</strong> Post-graduates &amp; industry professionals  
+    &nbsp;|&nbsp; 
+    <strong>Early-bird&nbsp;fee:</strong> £XXX (until DD&nbsp;MONTH)
+  </p>
+
+  <a class="button" href="YOUR-REGISTRATION-LINK" target="_blank"
+     rel="noopener">Learn&nbsp;more &amp; register →</a>
+</div>
+<!-- ======================================================================= -->
