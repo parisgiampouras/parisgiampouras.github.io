@@ -47,7 +47,7 @@ My research combines machine learning and signal processing, focusing on parsimo
   </p>
 
   <p class="course-meta">
-    <strong>Who’s welcome?</strong> MSc/PhD students, researchers, and tech professionals and basically everyone excited to dive in and get hands-on with AI! &nbsp;|&nbsp; 
+    <strong>Who’s welcome?</strong> MSc/PhD students, researchers, tech professionals and basically everyone excited to dive in and get hands-on with AI! &nbsp;|&nbsp; 
     &nbsp;|&nbsp; Full details + sign-up link coming soon!
   </p>
 
