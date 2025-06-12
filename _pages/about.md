@@ -31,7 +31,7 @@ My research combines machine learning and signal processing, focusing on parsimo
 <div class="course-announcement">
   <span class="badge">NEW</span>
 
-  <h3>🎉 Weekend Course on  Gen-AI (save the date!)</h3>
+  <h3>🎉 Weekend Course on  Gen-AI </h3>
 
   <p class="course-meta">
     <strong>When?</strong> <em>Oct 2025 (Exact dates TBA!)</em> &nbsp;·&nbsp;
