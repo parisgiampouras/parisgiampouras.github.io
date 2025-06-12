@@ -36,14 +36,14 @@ My research combines machine learning and signal processing, focusing on parsimo
   <h3>🎉 Weekend Course on  Gen-AI (save the date!)</h3>
 
   <p class="course-meta">
-    <strong>When?</strong> <em>Oct 2025 (Exact dates TBA!</em> &nbsp;·&nbsp;
+    <strong>When?</strong> <em>Oct 2025 (Exact dates TBA!)</em> &nbsp;·&nbsp;
     <strong>Where?</strong> <em>Uni of Warwick</em>
   </p>
 
   <p>
-    Two packed days demystifying large-language models, diffusion models, and prompt
+    Two packed days demystifying large-language models, image generative models, and prompt
     engineering.  Short lectures alternate with <strong>hands-on labs</strong> using
-    <em>Stable Diffusion&nbsp;3</em> and <em>GPT-4o</em>.
+    state-of-the-art AI models.
   </p>
 
   <p class="course-meta">
