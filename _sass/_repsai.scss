@@ -1,0 +1,81 @@
+/* =====  RepsAI page styles  ===== */
+
+/* -- HERO -- */
+.lab-hero{
+  text-align:center;
+  background:linear-gradient(135deg,#faf7ff 0%,#eef4ff 100%);
+  padding:3rem 1rem 2.75rem;
+  margin-bottom:3rem;
+  border-radius:1.5rem;
+  box-shadow:0 8px 22px rgba(0,0,0,.08);
+}
+.lab-hero .lab-logo{
+  width:230px;       /* adjust to taste */
+  border-radius:12px;
+  margin-bottom:1.25rem;
+}
+.lab-hero h1{
+  margin:0 0 .6rem;
+  font-size:2.4rem;
+  font-weight:700;
+}
+.lab-hero .tagline{
+  max-width:600px;
+  margin:0 auto;
+  font-size:1.1rem;
+  color:#555;
+}
+
+/* -- STUDENT GRID -- */
+.student-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+  gap:1.6rem;
+  margin-top:1rem;
+}
+.student-card{
+  background:#fff;
+  border:1px solid #e2e8f0;
+  border-radius:1rem;
+  padding:1.6rem 1.4rem;
+  box-shadow:0 4px 14px rgba(0,0,0,.05);
+  transition:transform .15s ease,box-shadow .15s ease;
+}
+.student-card:hover{
+  transform:translateY(-4px);
+  box-shadow:0 8px 20px rgba(0,0,0,.08);
+}
+.student-card h3{
+  margin:0 0 .35rem;
+  font-weight:600;
+}
+.student-card .years{
+  font-size:.85rem;
+  color:#6b7280;
+  margin-bottom:.4rem;
+}
+.student-card .role-note{
+  font-style:italic;
+}
+.student-card .topic{
+  font-size:.95rem;
+  margin-bottom:.9rem;
+}
+.card-links a{
+  display:inline-block;
+  font-size:.85rem;
+  margin-right:1rem;
+  text-decoration:none;
+  color:#2563eb;
+}
+.card-links i{
+  margin-right:.3rem;
+}
+
+/* -- Optional dark-mode tweaks -- */
+@media (prefers-color-scheme: dark){
+  .lab-hero{background:linear-gradient(135deg,#31304d 0%,#23263b 100%);}
+  .lab-hero .tagline{color:#cdd6f4;}
+  .student-card{background:#1f2133;border-color:#343650;}
+  .student-card .topic{color:#cdd6f4;}
+}
