@@ -26,4 +26,4 @@ My research combines machine learning and signal processing, focusing on parsimo
 **I co-organize the [Foundations of AI Seminar (FAIS)](https://faiseminarswarwick.github.io) series. If you’d like to be considered as a future speaker, please [reach out](mailto:paris.giampouras@warwick.ac.uk)!**
 
 
-**Prospective collaborators and students interested in working with me are highly encouraged to ([e-mail](mailto:paris.giampouras@warwick.ac.uk)) me!**
+**Prospective collaborators and students interested in working with me are highly encouraged to [e-mail](mailto:paris.giampouras@warwick.ac.uk) me!**
