@@ -2,23 +2,55 @@
 layout: page
 title: RepsAI Lab
 nav: true
-description: Representational AI lab
+description: Representational AI Lab
 permalink: /repsai/
 ---
 
-<p align="center">
-  <img src="/assets/img/repsai_lab.png" alt="RepsAI Lab" width="300" style="border-radius: 12px;" />
-</p>
+<!-- =========  HERO  ========= -->
+<div class="lab-hero">
+  <img src="/assets/img/repsai_lab.png" alt="RepsAI Lab" class="lab-logo">
+  <h1>RepsAI Lab</h1>
+  <p class="tagline">
+    Researching representations for trustworthy, generative & continual AI
+  </p>
+</div>
 
 ## PhD Students
 
-- **Loukas Sfountouris** (2024–present)  (Main supervisor, co-supervisor Prof. Theo Damoulas)
-  Research on Deep Generative Models.  
-  [Website](https://.....com) · [Email](mailto:loukas.sfountouris@warwick.ac.uk)
+<div class="student-grid">
 
-- **Xietao Wang Li** (2024–present)  (Co-supervisor, Main supervisor: Tom Montenegro-Jonshon)
-  Research on AI/ML for Science.
-  [Website](https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysii/wanglin/) · [Email](mailto:xietao.wang-lin@warwick.ac.uk)
+  <!-- Loukas -->
+  <div class="student-card">
+    <h3>Loukas Sfountouris</h3>
+    <p class="years">PhD · 2024&nbsp;–&nbsp;present  
+      <span class="role-note">(main supervisor)</span>
+    </p>
+    <p class="topic">Deep Generative Models</p>
+    <p class="card-links">
+      <a href="https://.....com" target="_blank" rel="noopener">
+        <i class="fas fa-globe"></i> Website
+      </a>
+      <a href="mailto:loukas.sfountouris@warwick.ac.uk">
+        <i class="fas fa-envelope"></i> Email
+      </a>
+    </p>
+  </div>
 
----
+  <!-- Xietao -->
+  <div class="student-card">
+    <h3>Xietao Wang Li</h3>
+    <p class="years">PhD · 2024&nbsp;–&nbsp;present  
+      <span class="role-note">(co-supervisor)</span>
+    </p>
+    <p class="topic">AI/ML for Science</p>
+    <p class="card-links">
+      <a href="https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysii/wanglin/" target="_blank" rel="noopener">
+        <i class="fas fa-globe"></i> Website
+      </a>
+      <a href="mailto:xietao.wang-lin@warwick.ac.uk">
+        <i class="fas fa-envelope"></i> Email
+      </a>
+    </p>
+  </div>
 
+</div>
