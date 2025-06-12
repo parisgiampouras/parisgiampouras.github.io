@@ -11,8 +11,7 @@ profile:
   address: >
     <p>MB2.30, Mathematical Sciences Building</p>
     <p>University of Warwick,</p>
-    <p>Coventry</p>
-    <p>CV4 7AL, UK</p>
+    <p>UK</p>
 
 news: true
 selected_papers: true
