@@ -87,3 +87,58 @@ nav_order: 3
     <p class="topic">Machine learning for energy prediction</p>
   </div>
 </div>
+
+## Summer Interns (URSS scheme)
+
+<div class="student-grid">
+ <!-- Jake -->
+ 
+  <div class="student-card">
+    <h3>Jake Barton Salazar</h3>
+    <p class="years">BSc DCS · 2025&nbsp;–&nbsp;present  
+      <span class="role-note">(co-supervising together with Prof. Clarice Poon (Warwick Maths))</span>
+    </p>
+    <p class="topic">Parameter Efficient Fine-Tuning of Foundations Models using Tensor Representations</p>
+  </div>
+
+  <!-- Thomas Yu -->
+  <div class="student-card">
+    <h3>Thomas Yu</h3>
+    <p class="years">BSc Warwick Mathematics Institute · 2025&nbsp;–&nbsp;present  
+      <span class="role-note">(co-supervising together with Prof. Clarice Poon (Warwick Maths))</span>
+    </p>
+    <p class="topic">Parameter Efficient Fine-Tuning of Foundations Models using Tensor Representations</p>
+  </div>
+
+   <!-- Hongxin Zhen -->
+  <div class="student-card">
+    <h3>Hongxin Zhen</h3>
+    <p class="years">BSc Warwick Mathematics Institute · 2025&nbsp;–&nbsp;present  
+      <span class="role-note">(co-supervising together with Prof. Clarice Poon (Warwick Maths))</span>
+    </p>
+    <p class="topic">Deep Inverse Problems</p>
+  </div>
+
+   <!-- Toby Williams -->
+  <div class="student-card">
+    <h3>Toby Williams </h3>
+    <p class="years">BSc Warwick Mathematics Institute · 2025&nbsp;–&nbsp;present  
+      <span class="role-note">(co-supervising together with Prof. Clarice Poon (Warwick Maths))</span>
+    </p>
+    <p class="topic">Deep Inverse Problems</p>
+  </div>
+
+  </div>
+
+  ## External Collaborators
+<div class="student-grid">
+   <!-- Omar -->
+  <div class="student-card">
+    <h3>Omar Khamis Sayed Ahmed Allam</h3>
+    <p class="years">African Institute for Mathematical Sciences · 2025&nbsp;–&nbsp;present  
+      <span class="role-note">(supervisor)</span>
+    </p>
+    <p class="topic">Dynamic Alignment of Large Language Models</p>
+  </div>
+
+   </div>
