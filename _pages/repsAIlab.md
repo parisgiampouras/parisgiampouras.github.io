@@ -54,3 +54,36 @@ nav_order: 3
   </div>
 
 </div>
+
+## MSc Students (Dissertation Supervision)
+
+<div class="student-grid">
+
+  <!-- Byron -->
+  <div class="student-card">
+    <h3>Byron Morris</h3>
+    <p class="years">MSc  · 2024&nbsp;–&nbsp;present  
+      <span class="role-note">(main supervisor)</span>
+    </p>
+    <p class="topic">A GENERALIZED COUNTERFACTUAL FRAMEWORK FOR IMAGE GENERATION IN COMPUTATIONAL PATHOLOGY</p>
+  </div>
+
+  <!-- Razan -->
+  <div class="student-card">
+    <h3>Razan Albalawi</h3>
+    <p class="years">MSc · 2024&nbsp;–&nbsp;present  
+      <span class="role-note">(co-supervisor)</span>
+    </p>
+    <p class="topic">Semantic Defences Against Adversarial Attacks Leveraging Deep Generative Models</p>
+  </div>
+
+
+  <!-- Razan -->
+  <div class="student-card">
+    <h3>Sitthichai	Charoensuk</h3>
+    <p class="years">MSc · 2024&nbsp;–&nbsp;present  
+      <span class="role-note">(co-supervisor)</span>
+    </p>
+    <p class="topic">Machine learning for energy prediction</p>
+  </div>
+</div>
