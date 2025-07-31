@@ -62,7 +62,7 @@ nav_order: 3
   <!-- Byron -->
   <div class="student-card">
     <h3>Byron Morris</h3>
-    <p class="years">MSc  · 2025&nbsp;–&nbsp;present  
+    <p class="years">MSc · 2025&nbsp;–&nbsp;present  
       <span class="role-note">(supervisor)</span>
     </p>
     <p class="topic">A Generalized Counterfactual Framework for Image Generation in Computational Pathology</p>
@@ -74,65 +74,67 @@ nav_order: 3
     <p class="years">MSc · 2025&nbsp;–&nbsp;present  
       <span class="role-note">(supervisor)</span>
     </p>
-    <p class="topic">Semantic Defences Against Adversarial Attacks Leveraging Deep Generative Models</p>
+    <p class="topic">Semantic Defenses Against Adversarial Attacks Using Deep Generative Models</p>
   </div>
 
-
-  <!-- Razan -->
+  <!-- Sitthichai -->
   <div class="student-card">
-    <h3>Sitthichai	Charoensuk</h3>
+    <h3>Sitthichai Charoensuk</h3>
     <p class="years">MSc · 2025&nbsp;–&nbsp;present  
       <span class="role-note">(supervisor)</span>
     </p>
-    <p class="topic">Machine learning for energy prediction</p>
+    <p class="topic">Machine Learning for Energy Prediction</p>
   </div>
+
 </div>
 
-## Summer Interns (URSS scheme)
+## Summer Interns (URSS Scheme)
 
 <div class="student-grid">
- <!-- Jake -->
- 
+
+  <!-- Jake -->
   <div class="student-card">
     <h3>Jake Barton Salazar</h3>
     <p class="years">BSc DCS · 2025&nbsp;–&nbsp;present  
-      <span class="role-note">(co-supervising together with Prof. Clarice Poon (Warwick Maths))</span>
+      <span class="role-note">(co-supervised with Prof. Clarice Poon, Warwick Mathematics)</span>
     </p>
-    <p class="topic">Parameter Efficient Fine-Tuning of Foundations Models using Tensor Representations</p>
+    <p class="topic">Parameter-Efficient Fine-Tuning of Foundation Models Using Tensor Representations</p>
   </div>
 
   <!-- Thomas Yu -->
   <div class="student-card">
     <h3>Thomas Yu</h3>
-    <p class="years">BSc Warwick Mathematics Institute · 2025&nbsp;–&nbsp;present  
-      <span class="role-note">(co-supervising together with Prof. Clarice Poon (Warwick Maths))</span>
+    <p class="years">BSc, Warwick Mathematics Institute · 2025&nbsp;–&nbsp;present  
+      <span class="role-note">(co-supervised with Prof. Clarice Poon, Warwick Mathematics)</span>
     </p>
-    <p class="topic">Parameter Efficient Fine-Tuning of Foundations Models using Tensor Representations</p>
+    <p class="topic">Parameter-Efficient Fine-Tuning of Foundation Models Using Tensor Representations</p>
   </div>
 
-   <!-- Hongxin Zhen -->
+  <!-- Hongxin Zhen -->
   <div class="student-card">
     <h3>Hongxin Zhen</h3>
-    <p class="years">BSc Warwick Mathematics Institute · 2025&nbsp;–&nbsp;present  
-      <span class="role-note">(co-supervising together with Prof. Clarice Poon (Warwick Maths))</span>
+    <p class="years">BSc, Warwick Mathematics Institute · 2025&nbsp;–&nbsp;present  
+      <span class="role-note">(co-supervised with Prof. Clarice Poon, Warwick Mathematics)</span>
     </p>
     <p class="topic">Deep Inverse Problems</p>
   </div>
 
-   <!-- Toby Williams -->
+  <!-- Toby Williams -->
   <div class="student-card">
-    <h3>Toby Williams </h3>
-    <p class="years">BSc Warwick Mathematics Institute · 2025&nbsp;–&nbsp;present  
-      <span class="role-note">(co-supervising together with Prof. Clarice Poon (Warwick Maths))</span>
+    <h3>Toby Williams</h3>
+    <p class="years">BSc, Warwick Mathematics Institute · 2025&nbsp;–&nbsp;present  
+      <span class="role-note">(co-supervised with Prof. Clarice Poon, Warwick Mathematics)</span>
     </p>
     <p class="topic">Deep Inverse Problems</p>
   </div>
 
-  </div>
+</div>
 
-  ## External Collaborators
+## External Collaborators
+
 <div class="student-grid">
-   <!-- Omar -->
+
+  <!-- Omar -->
   <div class="student-card">
     <h3>Omar Khamis Sayed Ahmed Allam</h3>
     <p class="years">African Institute for Mathematical Sciences · 2025&nbsp;–&nbsp;present  
@@ -141,4 +143,4 @@ nav_order: 3
     <p class="topic">Dynamic Alignment of Large Language Models</p>
   </div>
 
-   </div>
+</div>
