@@ -62,17 +62,17 @@ nav_order: 3
   <!-- Byron -->
   <div class="student-card">
     <h3>Byron Morris</h3>
-    <p class="years">MSc  · 2024&nbsp;–&nbsp;present  
-      <span class="role-note">(main supervisor)</span>
+    <p class="years">MSc  · 2025&nbsp;–&nbsp;present  
+      <span class="role-note">(supervisor)</span>
     </p>
-    <p class="topic">A GENERALIZED COUNTERFACTUAL FRAMEWORK FOR IMAGE GENERATION IN COMPUTATIONAL PATHOLOGY</p>
+    <p class="topic">A Generalized Counterfactual Framework for Image Generation in Computational Pathology</p>
   </div>
 
   <!-- Razan -->
   <div class="student-card">
     <h3>Razan Albalawi</h3>
-    <p class="years">MSc · 2024&nbsp;–&nbsp;present  
-      <span class="role-note">(co-supervisor)</span>
+    <p class="years">MSc · 2025&nbsp;–&nbsp;present  
+      <span class="role-note">(supervisor)</span>
     </p>
     <p class="topic">Semantic Defences Against Adversarial Attacks Leveraging Deep Generative Models</p>
   </div>
@@ -81,8 +81,8 @@ nav_order: 3
   <!-- Razan -->
   <div class="student-card">
     <h3>Sitthichai	Charoensuk</h3>
-    <p class="years">MSc · 2024&nbsp;–&nbsp;present  
-      <span class="role-note">(co-supervisor)</span>
+    <p class="years">MSc · 2025&nbsp;–&nbsp;present  
+      <span class="role-note">(supervisor)</span>
     </p>
     <p class="topic">Machine learning for energy prediction</p>
   </div>
