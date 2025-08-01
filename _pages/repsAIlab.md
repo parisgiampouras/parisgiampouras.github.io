@@ -15,132 +15,97 @@ nav_order: 3
   </p>
 </div>
 
-## PhD Students
+<!-- ======== PHD STUDENTS ======== -->
+## 🧑‍🎓 PhD Students
 
-<div class="student-grid">
+<div class="student-grid phd">
 
-  <!-- Loukas -->
-  <div class="student-card">
+  <div class="student-card phd-card">
     <h3>Loukas Sfountouris</h3>
-    <p class="years">PhD · 2024&nbsp;–&nbsp;present  
-      <span class="role-note">(main supervisor)</span>
-    </p>
+    <p class="years">PhD · 2024 – present <span class="role-note">(main supervisor)</span></p>
     <p class="topic">Deep Generative Models</p>
     <p class="card-links">
-      <a href="https://.....com" target="_blank" rel="noopener">
-        <i class="fas fa-globe"></i> Website
-      </a>
-      <a href="mailto:loukas.sfountouris@warwick.ac.uk">
-        <i class="fas fa-envelope"></i> Email
-      </a>
+      <a href="https://.....com" target="_blank"><i class="fas fa-globe"></i> Website</a>
+      <a href="mailto:loukas.sfountouris@warwick.ac.uk"><i class="fas fa-envelope"></i> Email</a>
     </p>
   </div>
 
-  <!-- Xietao -->
-  <div class="student-card">
+  <div class="student-card phd-card">
     <h3>Xietao Wang Li</h3>
-    <p class="years">PhD · 2024&nbsp;–&nbsp;present  
-      <span class="role-note">(co-supervisor)</span>
-    </p>
+    <p class="years">PhD · 2024 – present <span class="role-note">(co-supervisor)</span></p>
     <p class="topic">AI/ML for Science</p>
     <p class="card-links">
-      <a href="https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysii/wanglin/" target="_blank" rel="noopener">
-        <i class="fas fa-globe"></i> Website
-      </a>
-      <a href="mailto:xietao.wang-lin@warwick.ac.uk">
-        <i class="fas fa-envelope"></i> Email
-      </a>
+      <a href="https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysii/wanglin/" target="_blank"><i class="fas fa-globe"></i> Website</a>
+      <a href="mailto:xietao.wang-lin@warwick.ac.uk"><i class="fas fa-envelope"></i> Email</a>
     </p>
   </div>
 
 </div>
 
-## MSc Students (Dissertation Supervision)
+<!-- ======== MSC STUDENTS ======== -->
+## 🎓 MSc Students (Dissertation Supervision)
 
-<div class="student-grid">
+<div class="student-grid msc">
 
-  <!-- Byron -->
-  <div class="student-card">
-    <h3>Byron Morris</h3>
-    <p class="years">MSc · 2025&nbsp;–&nbsp;present  
-      <span class="role-note">(supervisor)</span>
-    </p>
-    <p class="topic">A Generalized Counterfactual Framework for Image Generation in Computational Pathology</p>
+  <div class="student-card msc-card">
+    <h4>Byron Morris</h4>
+    <p class="years">MSc · 2025 – present</p>
+    <p class="topic">Generalized Counterfactuals for Image Generation in Computational Pathology</p>
   </div>
 
-  <!-- Razan -->
-  <div class="student-card">
-    <h3>Razan Albalawi</h3>
-    <p class="years">MSc · 2025&nbsp;–&nbsp;present  
-      <span class="role-note">(supervisor)</span>
-    </p>
+  <div class="student-card msc-card">
+    <h4>Razan Albalawi</h4>
+    <p class="years">MSc · 2025 – present</p>
     <p class="topic">Semantic Defenses Against Adversarial Attacks Using Deep Generative Models</p>
   </div>
 
-  <!-- Sitthichai -->
-  <div class="student-card">
-    <h3>Sitthichai Charoensuk</h3>
-    <p class="years">MSc · 2025&nbsp;–&nbsp;present  
-      <span class="role-note">(supervisor)</span>
-    </p>
+  <div class="student-card msc-card">
+    <h4>Sitthichai Charoensuk</h4>
+    <p class="years">MSc · 2025 – present</p>
     <p class="topic">Machine Learning for Energy Prediction</p>
   </div>
 
 </div>
 
-## Summer Interns (URSS Scheme)
+<!-- ======== INTERNS ======== -->
+## ☀️ Summer Interns (URSS Scheme)
 
-<div class="student-grid">
+<div class="student-grid intern">
 
-  <!-- Jake -->
-  <div class="student-card">
-    <h3>Jake Barton Salazar</h3>
-    <p class="years">BSc DCS · 2025&nbsp;–&nbsp;present  
-      <span class="role-note">(co-supervised with Prof. Clarice Poon, Warwick Mathematics)</span>
-    </p>
-    <p class="topic">Parameter-Efficient Fine-Tuning of Foundation Models Using Tensor Representations</p>
+  <div class="student-card intern-card">
+    <strong>Jake Barton Salazar</strong>
+    <p>BSc DCS · 2025 – present</p>
+    <p>Parameter-Efficient Fine-Tuning of Foundation Models (co-supervised with Prof. Clarice Poon)</p>
   </div>
 
-  <!-- Thomas Yu -->
-  <div class="student-card">
-    <h3>Thomas Yu</h3>
-    <p class="years">BSc, Warwick Mathematics Institute · 2025&nbsp;–&nbsp;present  
-      <span class="role-note">(co-supervised with Prof. Clarice Poon, Warwick Mathematics)</span>
-    </p>
-    <p class="topic">Parameter-Efficient Fine-Tuning of Foundation Models Using Tensor Representations</p>
+  <div class="student-card intern-card">
+    <strong>Thomas Yu</strong>
+    <p>BSc, Warwick Mathematics · 2025 – present</p>
+    <p>Parameter-Efficient Fine-Tuning of Foundation Models (co-supervised with Prof. Clarice Poon)</p>
   </div>
 
-  <!-- Hongxin Zhen -->
-  <div class="student-card">
-    <h3>Hongxin Zhen</h3>
-    <p class="years">BSc, Warwick Mathematics Institute · 2025&nbsp;–&nbsp;present  
-      <span class="role-note">(co-supervised with Prof. Clarice Poon, Warwick Mathematics)</span>
-    </p>
-    <p class="topic">Deep Inverse Problems</p>
+  <div class="student-card intern-card">
+    <strong>Hongxin Zhen</strong>
+    <p>BSc, Warwick Mathematics · 2025 – present</p>
+    <p>Deep Inverse Problems (co-supervised with Prof. Clarice Poon)</p>
   </div>
 
-  <!-- Toby Williams -->
-  <div class="student-card">
-    <h3>Toby Williams</h3>
-    <p class="years">BSc, Warwick Mathematics Institute · 2025&nbsp;–&nbsp;present  
-      <span class="role-note">(co-supervised with Prof. Clarice Poon, Warwick Mathematics)</span>
-    </p>
-    <p class="topic">Deep Inverse Problems</p>
+  <div class="student-card intern-card">
+    <strong>Toby Williams</strong>
+    <p>BSc, Warwick Mathematics · 2025 – present</p>
+    <p>Deep Inverse Problems (co-supervised with Prof. Clarice Poon)</p>
   </div>
 
 </div>
 
-## External Collaborators
+<!-- ======== COLLABORATORS ======== -->
+## 🌍 External Collaborators
 
-<div class="student-grid">
+<div class="student-grid external">
 
-  <!-- Omar -->
-  <div class="student-card">
-    <h3>Omar Khamis Sayed Ahmed Allam</h3>
-    <p class="years">African Institute for Mathematical Sciences · 2025&nbsp;–&nbsp;present  
-      <span class="role-note">(supervisor)</span>
-    </p>
+  <div class="student-card external-card">
+    <h4>Omar Khamis Sayed Ahmed Allam</h4>
+    <p class="years">AIMS · 2025 – present</p>
     <p class="topic">Dynamic Alignment of Large Language Models</p>
   </div>
-
 </div>
