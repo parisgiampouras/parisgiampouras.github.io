@@ -22,7 +22,7 @@ nav_order: 3
 
   <div class="student-card phd-card">
     <h3>Loukas Sfountouris</h3>
-    <p class="years">PhD · 2024 – present <span class="role-note">(main supervisor)</span></p>
+    <p class="years">PhD · 2024 – present <span class="role-note">(main supervisor, co-supervisor: Prof. Theo Damoulas)</span></p>
     <p class="topic">Deep Generative Models</p>
     <p class="card-links">
       <a href="https://.....com" target="_blank"><i class="fas fa-globe"></i> Website</a>
@@ -32,7 +32,7 @@ nav_order: 3
 
   <div class="student-card phd-card">
     <h3>Xietao Wang Li</h3>
-    <p class="years">PhD · 2024 – present <span class="role-note">(co-supervisor)</span></p>
+    <p class="years">PhD · 2024 – present <span class="role-note">(co-supervisor, main supervisor: Prof. Tom Montenegro-Johnson)</span></p>
     <p class="topic">AI/ML for Science</p>
     <p class="card-links">
       <a href="https://warwick.ac.uk/fac/sci/mathsys/people/students/mathsysii/wanglin/" target="_blank"><i class="fas fa-globe"></i> Website</a>
