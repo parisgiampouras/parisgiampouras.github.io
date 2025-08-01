@@ -26,6 +26,13 @@
   color:#555;
 }
 
+.phd-card { border-left: 5px solid #004080; }
+.msc-card { border-left: 5px solid #227722; background: #f9f9f9; }
+.intern-card { border-left: 5px solid #888800; font-size: 0.95em; }
+.external-card { border-left: 5px solid #800000; font-style: italic; }
+.student-card { padding: 1rem; margin: 1rem 0; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,0.1); }
+
+
 /* -- STUDENT GRID -- */
 .student-grid{
   display:grid;
