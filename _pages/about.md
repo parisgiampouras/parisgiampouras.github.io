@@ -49,11 +49,11 @@ My research combines machine learning and signal processing, focusing on parsimo
     &nbsp;|&nbsp; Full details + sign-up link coming soon!
   </p>
 
-  <!-- Uncomment when registration opens
+
   <a class="button" href="YOUR-REGISTRATION-LINK" target="_blank" rel="noopener">
     Count me in →
   </a>
-  -->
+ 
 </div> 
 -->
 <!-- ======================================================================= -->
