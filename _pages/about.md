@@ -28,7 +28,7 @@ My research combines machine learning and signal processing, focusing on parsimo
 
 
 <!-- =========================  ANNOUNCEMENT BANNER  ========================= -->
-<div class="course-announcement">
+<!--<div class="course-announcement">
   <span class="badge">NEW</span>
 
   <h3>🎉 Weekend Course on  Gen-AI </h3>
@@ -54,6 +54,6 @@ My research combines machine learning and signal processing, focusing on parsimo
     Count me in →
   </a>
   -->
-</div>
+</div> -->
 <!-- ======================================================================= -->
 
