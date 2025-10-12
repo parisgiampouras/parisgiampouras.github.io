@@ -19,7 +19,7 @@ social: true
 
 I am an Assistant Professor of ML/AI at the [Department of Computer Science, University of Warwick](https://warwick.ac.uk/fac/sci/dcs/), and an Affiliated Researcher at the [Archimedes AI Research Center](https://archimedesai.gr/en/). Previously, I was a Research Faculty member at the [Mathematical Institute for Data Science (MINDS) at Johns Hopkins University (JHU)](https://www.minds.jhu.edu). From 2019 to 2022, I held a Marie Skłodowska-Curie postdoctoral fellowship at MINDS. 
 
-My research spans representation learning, deep generative models, continual learning, and trustworthy machine learning. Recently I’ve focused on agentic/continual AI, AI safety and alignment, and adapting and aligning diffusion models.
+I work on machine learning—especially representation learning, deep generative models, continual learning, and trustworthy ML—with recent projects on  AI safety/alignment, and aligning diffusion models, and agentic & continual AI.
 
 **I co-organize the [Foundations of AI Seminar (FAIS)](https://faiseminarswarwick.github.io) series. If you’d like to be considered as a future speaker, please [reach out](mailto:paris.giampouras@warwick.ac.uk)!**
 
