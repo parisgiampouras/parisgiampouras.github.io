@@ -21,6 +21,9 @@ I am an Assistant Professor of ML/AI at the [Department of Computer Science, Uni
 
 My research spans representation learning, deep generative models, continual learning, and trustworthy machine learning. Recently, I’ve been exploring AI safety and alignment, aligned diffusion models, and continual/agentic AI systems.
 
+**I am a co-organizer of the [ReALM–GEN workshop at ICLR 2026](https://realm-gen-workshop.github.io/). We have an exciting line-up of invited speakers and panelists—full details are on the [workshop website](https://realm-gen-workshop.github.io/). Submissions are via [OpenReview](https://openreview.net/group?id=ICLR.cc/2026/Workshop/ReALM-GEN).**
+
+
 **I co-organize the [Foundations of AI Seminar (FAIS)](https://faiseminarswarwick.github.io) series. If you’d like to be considered as a future speaker, please [reach out](mailto:paris.giampouras@warwick.ac.uk)!**
 
 
@@ -57,4 +60,3 @@ My research spans representation learning, deep generative models, continual lea
 </div> 
 
 <!-- ======================================================================= -->
-
