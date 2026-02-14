@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<a href='https://www.dcs.warwick.ac.uk#'>Assistant Professor @ Department of Computer Science, University of Warwick</a>."
+subtitle: "<a href='https://www.dcs.warwick.ac.uk#'>Assistant Professor @ Department of Computer Science, University of Warwick</a>. 
+Research Scientist (part-time), FAIR, Meta AI"
 
 profile:
   align: right
