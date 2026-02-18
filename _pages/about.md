@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "<a href='https://www.dcs.warwick.ac.uk/'>Assistant Professor, Department of Computer Science, University of Warwick</a><br>Research Scientist (part-time) at FAIR, Meta AI"
+subtitle: "<a href='https://www.dcs.warwick.ac.uk/'>Assistant Professor, Department of Computer Science, University of Warwick</a><br>Research Scientist (part-time) at [FAIR, Meta AI](https://ai.meta.com/research/)"
 
 
 
