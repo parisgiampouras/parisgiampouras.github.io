@@ -19,22 +19,17 @@ news: true
 selected_papers: true
 social: true
 ---
-
-I am an Assistant Professor of Machine Learning and AI in the [Department of Computer Science at the University of Warwick](https://warwick.ac.uk/fac/sci/dcs/), within the Foundations of AI and Machine Learning ([FAM](https://warwick.ac.uk/fac/sci/dcs/research/fam/)) division. I am also a Research Scientist at [FAIR, Meta AI](https://ai.meta.com/research/) (part-time), and an Affiliated Researcher at the [Archimedes AI Research Center](https://archimedesai.gr/en/).
+I am an Assistant Professor of Machine Learning and AI in the [Department of Computer Science at the University of Warwick](https://warwick.ac.uk/fac/sci/dcs/), within the Foundations of AI and Machine Learning ([FAM](https://warwick.ac.uk/fac/sci/dcs/research/fam/)) division. I am also a part-time Research Scientist at [FAIR, Meta AI](https://ai.meta.com/research/) and an Affiliated Researcher at the [Archimedes AI Research Center](https://archimedesai.gr/en/).
 
 Previously, I was a Research Faculty member at the [Mathematical Institute for Data Science (MINDS) at Johns Hopkins University](https://www.minds.jhu.edu), where I held a Marie Skłodowska-Curie Postdoctoral Fellowship from 2019 to 2022.
 
-My research interests span representation learning, deep generative models, continual learning, and trustworthy machine learning. More recently, my work has focused on AI safety and alignment, aligned diffusion models, and continual and agentic AI systems.
+My research spans representation learning, generative modeling, and continual learning. More recently, my work has focused on post-training methods for adapting and aligning LLMs and diffusion models, as well as LLM agents and continual learning in non-stationary settings.
 
 **I am a co-organizer of the [ReALM–GEN workshop at ICLR 2026](https://realm-gen-workshop.github.io/), which features an exciting lineup of invited speakers and panelists. Full details are available on the [workshop website](https://realm-gen-workshop.github.io/), and submissions are handled via [OpenReview](https://openreview.net/group?id=ICLR.cc/2026/Workshop/ReALM-GEN).**
 
-
-
 **I co-organize the [Foundations of AI Seminar (FAIS)](https://faiseminarswarwick.github.io) series. If you’d like to be considered as a future speaker, please [reach out](mailto:paris.giampouras@warwick.ac.uk)!**
 
-
-**Prospective collaborators and students interested in working with me are highly encouraged to [e-mail](mailto:paris.giampouras@warwick.ac.uk) me!**
-
+**Prospective collaborators and students interested in working with me are warmly encouraged to [e-mail](mailto:paris.giampouras@warwick.ac.uk) me!**
 
 <!-- =========================  ANNOUNCEMENT BANNER  ========================= -->
 <!--   <div class="course-announcement">
