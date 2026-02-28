@@ -19,11 +19,12 @@ news: true
 selected_papers: true
 social: true
 ---
+
 I am an Assistant Professor of Machine Learning and AI in the [Department of Computer Science at the University of Warwick](https://warwick.ac.uk/fac/sci/dcs/), within the Foundations of AI and Machine Learning ([FAM](https://warwick.ac.uk/fac/sci/dcs/research/fam/)) division. I am also a part-time Research Scientist at [FAIR, Meta AI](https://ai.meta.com/research/) and an Affiliated Researcher at the [Archimedes AI Research Center](https://archimedesai.gr/en/).
 
 Previously, I was a Research Faculty member at the [Mathematical Institute for Data Science (MINDS) at Johns Hopkins University](https://www.minds.jhu.edu), where I held a Marie Skłodowska-Curie Postdoctoral Fellowship from 2019 to 2022.
 
-My research spans representation learning, generative modeling, and continual learning. More recently, my work has focused on post-training methods for adapting and aligning LLMs and diffusion models, as well as LLM agents and continual learning in non-stationary settings.
+My research sits at the intersection of **optimization, probabilistic inference, and representation learning**, with the goal of building **robust, efficient, and adaptive learning systems**. Recent work includes  adaptive optimizers for training foundation models, robust federated learning via generalized variational inference, and theory/algorithms for overparameterized recovery and robust tensor methods. I also work on generative modeling and post-training, including steering diffusion and flow-based models via representational alignment for inverse problems, as well as adaptation/alignment of LLMs—particularly in agentic and continual-learning settings.
 
 **I am a co-organizer of the [ReALM–GEN workshop at ICLR 2026](https://realm-gen-workshop.github.io/), which features an exciting lineup of invited speakers and panelists. Full details are available on the [workshop website](https://realm-gen-workshop.github.io/), and submissions are handled via [OpenReview](https://openreview.net/group?id=ICLR.cc/2026/Workshop/ReALM-GEN).**
 
