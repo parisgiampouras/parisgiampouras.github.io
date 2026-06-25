@@ -50,7 +50,7 @@ social: true
 
 </div>
 
-I am an Assistant Professor of Machine Learning and AI in the [Department of Computer Science at the University of Warwick](https://warwick.ac.uk/fac/sci/dcs/), within the Foundations of AI and Machine Learning ([FAM](https://warwick.ac.uk/fac/sci/dcs/research/fam/)) division. I am also a part-time Research Scientist at [FAIR, Meta AI](https://ai.meta.com/research/) and an Affiliated Researcher at the [Archimedes AI Research Center](https://archimedesai.gr/en/).
+I am an Assistant Professor of Machine Learning and AI in the [Department of Computer Science at the University of Warwick](https://warwick.ac.uk/fac/sci/dcs/), within the Foundations of AI and Machine Learning ([FAM](https://warwick.ac.uk/fac/sci/dcs/research/fam/)) division, and an Affiliated Researcher at the [Archimedes AI Research Center](https://archimedesai.gr/en/). I am also a part-time Research Scientist at [FAIR, Meta AI](https://ai.meta.com/research/) 
 
 Previously, I was a Research Faculty member at the [Mathematical Institute for Data Science (MINDS) at Johns Hopkins University](https://www.minds.jhu.edu), where I held a Marie Skłodowska-Curie Postdoctoral Fellowship from 2019 to 2022.
 
