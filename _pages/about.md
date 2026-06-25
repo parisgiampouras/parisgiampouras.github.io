@@ -34,7 +34,14 @@ social: true
   </div>
 
   <div class="home-hero-photo-wrap">
-    <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Paris Giampouras" class="home-hero-photo">
+   <img
+  src="{{ '/assets/img/prof_pic.jpg' | relative_url }}"
+  alt="Paris Giampouras"
+  class="home-hero-photo"
+  width="145"
+  height="145"
+  style="width:145px; height:145px; max-width:145px; object-fit:cover; border-radius:50%;"
+/>
     <div class="home-hero-affiliation">
       <strong>Paris Giampouras</strong><br>
       University of Warwick · Meta FAIR/MSL
