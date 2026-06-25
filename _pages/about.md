@@ -15,9 +15,9 @@ social: true
 
   <div class="home-hero-text">
 
-    <div class="hero-kicker">Machine Learning · Generative AI · Agentic AI · Representation Learning</div>
+    <div class="hero-kicker">Machine Learning · Representation Learning · Generative AI · Agentic AI </div>
 
-    <h2>Learning AI systems that adapt, align, and remember.</h2>
+    <h2>Learning AI systems that adapt, align, and do forget only when needed.</h2>
 
     <p class="hero-subtitle">
       I work on representation learning, generative models, optimization, and agentic AI,
@@ -111,7 +111,7 @@ My research sits at the intersection of **optimization, probabilistic inference,
 
 </div>
 
-**I am a co-organizer of the [ReALM–GEN workshop at ICLR 2026](https://realm-gen-workshop.github.io/), which features an exciting lineup of invited speakers and panelists. Full details are available on the [workshop website](https://realm-gen-workshop.github.io/), and submissions are handled via [OpenReview](https://openreview.net/group?id=ICLR.cc/2026/Workshop/ReALM-GEN).**
+**I was a co-organizer of the [ReALM–GEN workshop at ICLR 2026](https://realm-gen-workshop.github.io/), which featured an exciting lineup of invited speakers and panelists. Full details are available on the [workshop website](https://realm-gen-workshop.github.io/), and online material can be found [here](https://iclr.cc/virtual/2026/workshop/10000793).**
 
 **I co-organize the [Foundations of AI Seminar (FAIS)](https://faiseminarswarwick.github.io) series. If you’d like to be considered as a future speaker, please [reach out](mailto:paris.giampouras@warwick.ac.uk)!**
 
