@@ -4,13 +4,7 @@ title: about
 permalink: /
 subtitle: "<a href='https://www.dcs.warwick.ac.uk/'>Assistant Professor, Department of Computer Science, University of Warwick</a><br>Research Scientist (part-time) at <a href='https://ai.meta.com/research/'>FAIR, Meta AI</a>"
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: true
-  address: >
-    <p>MB2.30, Mathematical Sciences Building</p>
-    <p>University of Warwick, UK</p>
+profile: false
 
 news: true
 selected_papers: true
@@ -19,20 +13,32 @@ social: true
 
 <div class="home-hero">
 
-  <div class="hero-kicker">Machine Learning · Generative AI · Agentic AI · Representation Learning</div>
+  <div class="home-hero-text">
 
-  <h1>Learning AI systems that adapt, align, and remember.</h1>
+    <div class="hero-kicker">Machine Learning · Generative AI · Agentic AI · Representation Learning</div>
 
-  <p class="hero-subtitle">
-    I work on representation learning, generative models, optimization, and agentic AI,
-    with the goal of building robust, efficient, and adaptive learning systems.
-  </p>
+    <h2>Learning AI systems that adapt, align, and remember.</h2>
 
-  <div class="hero-buttons">
-    <a href="/publications/" class="hero-button primary">Publications</a>
-    <a href="/repsai/" class="hero-button">RepsAI Lab</a>
-    <a href="/projects/" class="hero-button">Projects</a>
-    <a href="mailto:paris.giampouras@warwick.ac.uk" class="hero-button">Contact</a>
+    <p class="hero-subtitle">
+      I work on representation learning, generative models, optimization, and agentic AI,
+      with the goal of building robust, efficient, and adaptive learning systems.
+    </p>
+
+    <div class="hero-buttons">
+      <a href="/publications/" class="hero-button primary">Publications</a>
+      <a href="/repsai/" class="hero-button">RepsAI Lab</a>
+      <a href="/projects/" class="hero-button">Projects</a>
+      <a href="mailto:paris.giampouras@warwick.ac.uk" class="hero-button">Contact</a>
+    </div>
+
+  </div>
+
+  <div class="home-hero-photo-wrap">
+    <img src="{{ '/assets/img/prof_pic.jpg' | relative_url }}" alt="Paris Giampouras" class="home-hero-photo">
+    <div class="home-hero-affiliation">
+      <strong>Paris Giampouras</strong><br>
+      University of Warwick · Meta FAIR/MSL
+    </div>
   </div>
 
 </div>
