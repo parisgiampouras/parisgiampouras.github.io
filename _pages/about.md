@@ -17,7 +17,7 @@ social: true
 
     <div class="hero-kicker">Machine Learning · Representation Learning · Generative AI · Agentic AI </div>
 
-    <h2>Learning AI systems that adapt, align, and do forget only when needed.</h2>
+    <h2>Learning AI systems that adapt, align, and forget only when needed.</h2>
 
     <p class="hero-subtitle">
       I work on representation learning, generative models, optimization, and agentic AI,
