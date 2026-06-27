@@ -419,35 +419,35 @@ Applications of our work include inverse problems, scientific AI, computational 
   <div class="member-card intern-card">
     <div class="member-label">Summer Intern</div>
     <h3>Liam Dalziel</h3>
-    <p class="years">Warwick Maths · 2026</p>
+    <p class="years">Warwick Mathematics Institute · 2026</p>
     <p class="topic">Continual Reinforcement Learning</p>
   </div>
 
   <div class="member-card intern-card">
     <div class="member-label">Summer Intern</div>
     <h3>Yikuan Li</h3>
-    <p class="years">Warwick Maths · 2026</p>
+    <p class="years">Warwick Mathematics Institute · 2026</p>
     <p class="topic">Posttraining of Diffusion Language Models</p>
   </div>
 
   <div class="member-card intern-card">
     <div class="member-label">Summer Intern</div>
     <h3>Yongqi Su</h3>
-    <p class="years">Warwick Maths · 2026</p>
+    <p class="years">Warwick Mathematics Institute · 2026</p>
     <p class="topic">Posttraining of Diffusion Language Models</p>
   </div>
 
   <div class="member-card intern-card">
     <div class="member-label">Summer Intern</div>
     <h3>Rong Rizheng</h3>
-    <p class="years">Warwick Maths · 2026</p>
+    <p class="years">Warwick Mathematics Institute · 2026</p>
     <p class="topic">Posttraining of Diffusion Language Models</p>
   </div>
 
   <div class="member-card intern-card">
     <div class="member-label">Summer Intern</div>
     <h3>Xiaoyu Gu</h3>
-    <p class="years">Warwick Maths · 2026</p>
+    <p class="years">Warwick Mathematics Institute · 2026</p>
     <p class="topic">Posttraining of Diffusion Language Models</p>
   </div>
 
