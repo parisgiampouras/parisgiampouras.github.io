@@ -112,38 +112,86 @@ nav_order: 3
 
 </div>
 
-### MSc Students
+<div class="member-grid">
+<div class="member-card external-card">
+    <div class="member-label">Summer Intern</div>
+    <h3>Liam Dalziel</h3>
+    <p class="years">Warwick Maths, 2026</p>
+    <p class="topic">Continual Reinforcement Learning</p>
+  </div>
+
+  <div class="member-card external-card">
+    <div class="member-label">Summer Intern</div>
+    <h3>Yikuan Li</h3>
+    <p class="years">Warwick Maths, 2026</p>
+    <p class="topic">Posttraining of Diffusion Language Models</p>
+  </div>
+
+  <div class="member-card external-card">
+    <div class="member-label">Summer Intern</div>
+    <h3>Yongqi Su</h3>
+    <p class="years">Warwick Maths, 2026</p>
+    <p class="topic">Posttraining of Diffusion Language Models</p>
+  </div>
+
+    <div class="member-card external-card">
+    <div class="member-label">Summer Intern</div>
+    <h3>Rong Rizheng</h3>
+    <p class="years">Warwick Maths, 2026</p>
+    <p class="topic">Posttraining of Diffusion Language Models</p>
+
+    
+    <div class="member-card external-card">
+    <div class="member-label">Summer Intern</div>
+    <h3>Xiaoyu Gu</h3>
+    <p class="years">Warwick Maths, 2026</p>
+    <p class="topic">Posttraining of Diffusion Language Models</p>
+  </div>
+
+</div>
+
+### External Collaborators
+
+<div class="member-grid">
+
+  <div class="member-card external-card">
+    <div class="member-label">External Collaborator</div>
+    <h3>Omar Khamis Sayed Ahmed Allam</h3>
+    <p class="years">AIMS · 2025 – present</p>
+    <p class="topic">Dynamic Alignment of Large Language Models</p>
+  </div>
+
+</div>
+
+<!-- ========= PAST MEMBERS ========= -->
+
+## Past Members / Alumni
+
 
 <div class="member-grid">
 
   <div class="member-card msc-card">
     <div class="member-label">MSc Dissertation</div>
     <h3>Byron Morris</h3>
-    <p class="years">2025 – present</p>
+    <p class="years">2025</p>
     <p class="topic">Generalized Counterfactuals for Image Generation in Computational Pathology</p>
   </div>
 
   <div class="member-card msc-card">
     <div class="member-label">MSc Dissertation</div>
     <h3>Razan Albalawi</h3>
-    <p class="years">2025 – present</p>
+    <p class="years">2025</p>
     <p class="topic">Semantic Defenses Against Adversarial Attacks Using Deep Generative Models</p>
   </div>
 
   <div class="member-card msc-card">
     <div class="member-label">MSc Dissertation</div>
     <h3>Sitthichai Charoensuk</h3>
-    <p class="years">2025 – present</p>
+    <p class="years">2025</p>
     <p class="topic">Machine Learning for Energy Prediction</p>
   </div>
 
-</div>
-
-### Summer Interns
-
-<div class="member-grid">
-
-  <div class="member-card intern-card">
+    <div class="member-card intern-card">
     <div class="member-label">URSS Intern</div>
     <h3>Jake Barton Salazar</h3>
     <p class="years">BSc DCS · 2025 – present</p>
@@ -175,33 +223,10 @@ nav_order: 3
     <p class="role-note">Co-supervised with Prof. Clarice Poon</p>
   </div>
 
-</div>
-
-### External Collaborators
-
-<div class="member-grid">
-
-  <div class="member-card external-card">
-    <div class="member-label">External Collaborator</div>
-    <h3>Omar Khamis Sayed Ahmed Allam</h3>
-    <p class="years">AIMS · 2025 – present</p>
-    <p class="topic">Dynamic Alignment of Large Language Models</p>
-  </div>
 
 </div>
 
-<!-- ========= PAST MEMBERS ========= -->
 
-## Past Members / Alumni
-
-<div class="member-grid">
-
-  <div class="member-card alumni-card">
-    <div class="member-label">Alumni</div>
-    <h3>Past members will be listed here</h3>
-    <p class="years">Former MSc students, interns, visiting students, and collaborators</p>
-    <p class="topic">
-      This section can be updated as current students complete their projects or move to new roles.
     </p>
   </div>
 
