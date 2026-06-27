@@ -105,39 +105,12 @@ nav_order: 3
     <h1>Learning AI systems that adapt, align, and forget only when needed.</h1>
 
     <p class="repsai-subtitle">
-      RepsAI develops machine learning methods for building adaptive, aligned, and trustworthy AI systems
-      through representation learning, generative modeling, optimization, continual learning, and unlearning.
+      RepsAI focuses on machine learning methods for building adaptive, aligned, and trustworthy AI systems
+      through representation learning, generative modeling, optimization, and continual learning.
     </p>
 
     <a href="/publications/" class="repsai-button">Publications</a>
   </div>
-
-  <div class="repsai-logo-wrap">
-    <img src="/assets/img/repsai_lab.png" alt="RepsAI Lab" class="repsai-logo">
-  </div>
-
-</div>
-
-<!-- ========= HERO ========= -->
-
-<div class="repsai-hero">
-
-  <div class="repsai-hero-text">
-    <div class="repsai-kicker">Representational AI Lab</div>
-
-```
-<h1>Learning AI systems that adapt, align, and forget only when needed.</h1>
-
-<p class="repsai-subtitle">
-  RepsAI develops machine learning methods for building adaptive, aligned, and trustworthy AI systems
-  through representation learning, generative modeling, optimization, continual learning, and unlearning.
-</p>
-
-<div class="repsai-buttons">
-  <a href="/publications/" class="repsai-button primary">Publications</a>
-</div>
-```
-
   </div>
 
   <div class="repsai-logo-wrap">
@@ -150,9 +123,9 @@ nav_order: 3
 
 ## About the Lab
 
-The **Representational AI Lab (RepsAI)** develops machine learning methods for building AI systems that can **adapt to new data and tasks**, **align with desired representations and objectives**, and **forget information only when needed**.
+The **Representational AI Lab (RepsAI)** focuses on machine learning methods for building AI systems that can **adapt to new data and tasks**, **align with desired representations and objectives**, and **forget information only when needed**.
 
-Our work sits at the intersection of **representation learning**, **generative modeling**, **optimization**, **continual learning**, **unlearning**, and **agentic AI**. We are particularly interested in how representations can make modern AI systems more **robust**, **controllable**, **efficient**, and **trustworthy**.
+Our work sits at the intersection of **representation learning**, **generative modeling**, **optimization**, **continual learning**, and **agentic AI**. We are particularly interested in how representations can make modern AI systems more **robust**, **controllable**, **efficient**, and **trustworthy**.
 
 Applications of our work include inverse problems, scientific AI, computational pathology, foundation model adaptation, diffusion and flow-based generative models, and LLM agents.
 
@@ -182,7 +155,7 @@ Applications of our work include inverse problems, scientific AI, computational 
     <div class="repsai-icon">🧹</div>
     <h3>Selective Forgetting</h3>
     <p>
-      Unlearning and model editing methods that remove unwanted information while preserving useful knowledge.
+     Continual learning  methods that address catastrophic forgetting and let models keep learning in long-horizon tasks.
     </p>
   </div>
 
