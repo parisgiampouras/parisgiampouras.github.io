@@ -1,11 +1,12 @@
 ---
+
 layout: page
 title: RepsAI Lab
 nav: true
 description: Representational AI Lab
 permalink: /repsai/
 nav_order: 3
----
+------------
 
 <!-- ========= HERO ========= -->
 
@@ -14,6 +15,7 @@ nav_order: 3
   <div class="repsai-hero-text">
     <div class="repsai-kicker">Representational AI Lab</div>
 
+```
 <h1>Representations for trustworthy, generative, and continual AI.</h1>
 
 <p class="repsai-subtitle">
@@ -25,6 +27,7 @@ nav_order: 3
 <div class="repsai-buttons">
   <a href="/publications/" class="repsai-button primary">Publications</a>
 </div>
+```
 
   </div>
 
