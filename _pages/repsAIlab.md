@@ -297,6 +297,66 @@ nav_order: 3
       grid-template-columns: 1fr;
     }
   }
+
+
+  /* ========= DARK MODE FIXES ========= */
+
+html[data-theme='dark'] .repsai-hero {
+  background:
+    radial-gradient(circle at top left, rgba(34, 211, 238, 0.14), transparent 34%),
+    radial-gradient(circle at bottom right, rgba(59, 130, 246, 0.18), transparent 36%),
+    linear-gradient(135deg, #18181b 0%, #111827 100%);
+  border: 1px solid rgba(148, 163, 184, 0.22);
+  box-shadow: 0 14px 36px rgba(0, 0, 0, 0.35);
+}
+
+html[data-theme='dark'] .repsai-kicker {
+  color: var(--global-theme-color, #38bdf8);
+  background: rgba(15, 23, 42, 0.78);
+  border: 1px solid rgba(148, 163, 184, 0.24);
+}
+
+html[data-theme='dark'] .repsai-hero h1 {
+  color: var(--global-text-color, #f8fafc);
+}
+
+html[data-theme='dark'] .repsai-subtitle {
+  color: var(--global-text-color-light, #cbd5e1);
+}
+
+html[data-theme='dark'] .repsai-logo {
+  border-color: rgba(15, 23, 42, 0.9);
+  box-shadow: 0 16px 34px rgba(0, 0, 0, 0.38);
+}
+
+html[data-theme='dark'] .repsai-topic-card,
+html[data-theme='dark'] .member-card {
+  background: var(--global-card-bg-color, #1f2937);
+  border-color: rgba(148, 163, 184, 0.22);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.28);
+}
+
+html[data-theme='dark'] .repsai-topic-card:hover,
+html[data-theme='dark'] .member-card:hover {
+  border-color: rgba(56, 189, 248, 0.35);
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.38);
+}
+
+html[data-theme='dark'] .repsai-icon,
+html[data-theme='dark'] .member-label {
+  background: rgba(56, 189, 248, 0.12);
+  color: var(--global-theme-color, #38bdf8);
+}
+
+html[data-theme='dark'] .topic {
+  color: var(--global-text-color, #f8fafc);
+}
+
+html[data-theme='dark'] .years,
+html[data-theme='dark'] .role-note,
+html[data-theme='dark'] .repsai-topic-card p {
+  color: var(--global-text-color-light, #cbd5e1);
+}
 </style>
 
 
