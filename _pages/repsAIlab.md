@@ -331,37 +331,52 @@ Our work sits at the intersection of **representation learning**, **generative m
 
 Applications of our work include inverse problems, scientific AI, computational pathology, foundation model adaptation, diffusion and flow-based generative models, and LLM agents.
 
-<!-- ========= RESEARCH AREAS ========= -->
+<!-- ========= RESEARCH THEMES ========= -->
 
-## Research Themes
+<div class="repsai-section">
+  <h2>Research Themes</h2>
+</div>
 
 <div class="repsai-card-grid">
 
   <div class="repsai-topic-card">
-    <div class="repsai-icon">🔁</div>
-    <h3>Adaptation</h3>
+    <div class="repsai-icon">🧠</div>
+    <h3>Representation Learning</h3>
     <p>
-      Methods for continual learning, test-time adaptation, and robust deployment under changing data distributions.
+      Learning structured, robust, and transferable representations that support adaptation,
+      alignment, and reliable generalization.
     </p>
   </div>
 
   <div class="repsai-topic-card">
-    <div class="repsai-icon">🎯</div>
-    <h3>Alignment</h3>
+    <div class="repsai-icon">✨</div>
+    <h3>Generative Models</h3>
     <p>
-      Representation alignment, post-training, and controllable generative modeling for reliable AI systems.
+      Diffusion, flow-based, and latent-variable models for inverse problems, scientific AI,
+      and controllable generation.
+    </p>
+  </div>
+
+  <div class="repsai-topic-card">
+    <div class="repsai-icon">⚙️</div>
+    <h3>Optimization & Inference</h3>
+    <p>
+      Optimization, probabilistic inference, and theory for scalable, efficient, and reliable
+      learning systems.
     </p>
   </div>
 
   <div class="repsai-topic-card">
     <div class="repsai-icon">🤖</div>
-    <h3>Agentic AI</h3>
+    <h3>Agentic & Continual AI</h3>
     <p>
-      Reasoning, planning, and post-training methods for adaptive foundation models and LLM agents.
+      Adaptation, alignment, post-training, unlearning, and continual-learning methods for
+      foundation models and LLM agents.
     </p>
   </div>
 
 </div>
+
 
 <!-- ========= CURRENT MEMBERS ========= -->
 
