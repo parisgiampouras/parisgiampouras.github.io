@@ -13,22 +13,35 @@ nav_order: 3
   .repsai-page {
     margin-top: 0.5rem;
   }
+.repsai-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 260px;
+  gap: 2rem;
+  align-items: center;
+  margin: 1rem 0 2.6rem;
+  padding: 2.4rem 2rem;
+  border-radius: 1.5rem;
+  background:
+    radial-gradient(circle at top left, rgba(37, 99, 235, 0.14), transparent 34%),
+    radial-gradient(circle at bottom right, rgba(14, 165, 233, 0.15), transparent 36%),
+    linear-gradient(135deg, #f8fafc 0%, #eff6ff 100%);
+  border: 1px solid rgba(148, 163, 184, 0.28);
+  box-shadow: 0 14px 36px rgba(15, 23, 42, 0.08);
+}
 
-  .repsai-hero {
-    display: grid;
-    grid-template-columns: minmax(0, 1fr) 260px;
-    gap: 2rem;
-    align-items: center;
-    margin: 1rem 0 2.6rem;
-    padding: 2.4rem 2rem;
-    border-radius: 1.5rem;
-    background:
-      radial-gradient(circle at top left, rgba(37, 99, 235, 0.14), transparent 34%),
-      radial-gradient(circle at bottom right, rgba(14, 165, 233, 0.15), transparent 36%),
-      linear-gradient(135deg, #f8fafc 0%, #eff6ff 100%);
-    border: 1px solid rgba(148, 163, 184, 0.28);
-    box-shadow: 0 14px 36px rgba(15, 23, 42, 0.08);
-  }
+.repsai-logo-wrap {
+  text-align: center;
+}
+
+.repsai-logo {
+  width: 230px;
+  max-width: 230px;
+  height: auto;
+  border-radius: 1.25rem;
+  box-shadow: 0 14px 30px rgba(15, 23, 42, 0.16);
+  border: 4px solid rgba(255, 255, 255, 0.95);
+}
+  
 
   .repsai-kicker {
     display: inline-block;
@@ -80,18 +93,7 @@ nav_order: 3
     text-decoration: none !important;
   }
 
-  .repsai-logo-wrap {
-    text-align: center;
-  }
-
-  .repsai-logo {
-    width: 230px;
-    max-width: 230px;
-    height: auto;
-    border-radius: 1.25rem;
-    box-shadow: 0 14px 30px rgba(15, 23, 42, 0.16);
-    border: 4px solid rgba(255, 255, 255, 0.95);
-  }
+  
 
   .repsai-section {
     margin: 2.4rem 0 1.1rem;
@@ -307,18 +309,18 @@ nav_order: 3
     <h1>Learning AI systems that adapt, align, and evolve reliably.</h1>
 
     <p class="repsai-subtitle">
-      RepsAI focuses on machine learning methods for building adaptive, aligned, and trustworthy AI systems
-      through representation learning, generative modeling, optimization, and continual learning.
+      RepsAI develops machine learning methods for building adaptive, aligned, and trustworthy AI systems
+      through representation learning, generative modeling, optimization, continual learning, and unlearning.
     </p>
 
     <a href="/publications/" class="repsai-button">Publications</a>
   </div>
-  </div>
 
   <div class="repsai-logo-wrap">
-    <img src="{{ '/assets/img/repsai_lab.png' | relative_url }}" alt="RepsAI Lab" class="repsai-logo">
+    <img src="/assets/img/repsai_lab.png" alt="RepsAI Lab" class="repsai-logo">
   </div>
 
+</div>
 
 
 <!-- ========= ABOUT ========= -->
