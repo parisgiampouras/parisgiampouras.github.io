@@ -7,6 +7,117 @@ permalink: /repsai/
 nav_order: 3
 ---
 
+<style>
+  .repsai-hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 180px;
+    gap: 2rem;
+    align-items: center;
+    margin: 1rem 0 2.5rem;
+    padding: 2.3rem 2rem;
+    border-radius: 1.5rem;
+    background: linear-gradient(135deg, #f8fafc 0%, #eff6ff 100%);
+    border: 1px solid rgba(148, 163, 184, 0.28);
+    box-shadow: 0 14px 36px rgba(15, 23, 42, 0.08);
+  }
+
+  .repsai-kicker {
+    display: inline-block;
+    margin-bottom: 0.85rem;
+    padding: 0.32rem 0.72rem;
+    border-radius: 999px;
+    font-size: 0.74rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--global-theme-color);
+    background: rgba(255, 255, 255, 0.78);
+    border: 1px solid rgba(148, 163, 184, 0.28);
+  }
+
+  .repsai-hero h1 {
+    margin: 0 0 1rem;
+    font-size: clamp(1.85rem, 4vw, 3rem);
+    line-height: 1.08;
+    letter-spacing: -0.045em;
+    font-weight: 800;
+  }
+
+  .repsai-subtitle {
+    max-width: 760px;
+    margin-bottom: 1.35rem;
+    font-size: 1.03rem;
+    line-height: 1.6;
+    color: var(--global-text-color-light);
+  }
+
+  .repsai-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.62rem 0.95rem;
+    border-radius: 999px;
+    font-size: 0.88rem;
+    font-weight: 700;
+    text-decoration: none !important;
+    color: #fff;
+    background: var(--global-theme-color);
+    border: 1px solid var(--global-theme-color);
+  }
+
+  .repsai-logo-wrap {
+    text-align: center;
+  }
+
+  .repsai-logo {
+    width: 150px;
+    max-width: 150px;
+    height: auto;
+    border-radius: 1.25rem;
+    box-shadow: 0 14px 30px rgba(15, 23, 42, 0.16);
+    border: 4px solid rgba(255, 255, 255, 0.95);
+  }
+
+  @media (max-width: 768px) {
+    .repsai-hero {
+      grid-template-columns: 1fr;
+      padding: 2rem 1.25rem;
+    }
+
+    .repsai-logo-wrap {
+      order: -1;
+      text-align: left;
+    }
+
+    .repsai-logo {
+      width: 115px;
+      max-width: 115px;
+    }
+  }
+</style>
+
+<!-- ========= HERO ========= -->
+<div class="repsai-hero">
+
+  <div class="repsai-hero-text">
+    <div class="repsai-kicker">Representational AI Lab</div>
+
+    <h1>Learning AI systems that adapt, align, and forget only when needed.</h1>
+
+    <p class="repsai-subtitle">
+      RepsAI develops machine learning methods for building adaptive, aligned, and trustworthy AI systems
+      through representation learning, generative modeling, optimization, continual learning, and unlearning.
+    </p>
+
+    <a href="/publications/" class="repsai-button">Publications</a>
+  </div>
+
+  <div class="repsai-logo-wrap">
+    <img src="/assets/img/repsai_lab.png" alt="RepsAI Lab" class="repsai-logo">
+  </div>
+
+</div>
+
 <!-- ========= HERO ========= -->
 
 <div class="repsai-hero">
