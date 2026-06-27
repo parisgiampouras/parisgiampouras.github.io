@@ -38,6 +38,14 @@ nav_order: 3
 
 </div>
 
+<!-- ========= ABOUT ========= -->
+
+## About the Lab
+
+The **Representational AI Lab (RepsAI)** develops machine learning methods for learning, aligning, and adapting representations in modern AI systems. Our work sits at the intersection of **representation learning**, **generative modeling**, **optimization**, **continual learning**, and **agentic AI**.
+
+We are particularly interested in understanding how representations can make AI systems more **robust**, **adaptive**, **controllable**, and **trustworthy**, with applications ranging from inverse problems and scientific AI to foundation models and LLM agents.
+
 <!-- ========= RESEARCH AREAS ========= -->
 
 ## Research Themes
@@ -112,39 +120,42 @@ nav_order: 3
 
 </div>
 
+### Summer Interns
+
 <div class="member-grid">
-<div class="member-card external-card">
+
+  <div class="member-card intern-card">
     <div class="member-label">Summer Intern</div>
     <h3>Liam Dalziel</h3>
-    <p class="years">Warwick Maths, 2026</p>
+    <p class="years">Warwick Maths · 2026</p>
     <p class="topic">Continual Reinforcement Learning</p>
   </div>
 
-  <div class="member-card external-card">
+  <div class="member-card intern-card">
     <div class="member-label">Summer Intern</div>
     <h3>Yikuan Li</h3>
-    <p class="years">Warwick Maths, 2026</p>
+    <p class="years">Warwick Maths · 2026</p>
     <p class="topic">Posttraining of Diffusion Language Models</p>
   </div>
 
-  <div class="member-card external-card">
+  <div class="member-card intern-card">
     <div class="member-label">Summer Intern</div>
     <h3>Yongqi Su</h3>
-    <p class="years">Warwick Maths, 2026</p>
+    <p class="years">Warwick Maths · 2026</p>
     <p class="topic">Posttraining of Diffusion Language Models</p>
   </div>
 
-    <div class="member-card external-card">
+  <div class="member-card intern-card">
     <div class="member-label">Summer Intern</div>
     <h3>Rong Rizheng</h3>
-    <p class="years">Warwick Maths, 2026</p>
+    <p class="years">Warwick Maths · 2026</p>
     <p class="topic">Posttraining of Diffusion Language Models</p>
+  </div>
 
-    
-    <div class="member-card external-card">
+  <div class="member-card intern-card">
     <div class="member-label">Summer Intern</div>
     <h3>Xiaoyu Gu</h3>
-    <p class="years">Warwick Maths, 2026</p>
+    <p class="years">Warwick Maths · 2026</p>
     <p class="topic">Posttraining of Diffusion Language Models</p>
   </div>
 
@@ -167,6 +178,7 @@ nav_order: 3
 
 ## Past Members / Alumni
 
+### MSc Dissertation Students
 
 <div class="member-grid">
 
@@ -191,43 +203,42 @@ nav_order: 3
     <p class="topic">Machine Learning for Energy Prediction</p>
   </div>
 
-    <div class="member-card intern-card">
-    <div class="member-label">URSS Intern</div>
-    <h3>Jake Barton Salazar</h3>
-    <p class="years">BSc DCS · 2025 – present</p>
-    <p class="topic">Parameter-Efficient Fine-Tuning of Foundation Models</p>
-    <p class="role-note">Co-supervised with Prof. Clarice Poon</p>
-  </div>
-
-  <div class="member-card intern-card">
-    <div class="member-label">URSS Intern</div>
-    <h3>Thomas Yu</h3>
-    <p class="years">BSc Mathematics · 2025 – present</p>
-    <p class="topic">Parameter-Efficient Fine-Tuning of Foundation Models</p>
-    <p class="role-note">Co-supervised with Prof. Clarice Poon</p>
-  </div>
-
-  <div class="member-card intern-card">
-    <div class="member-label">URSS Intern</div>
-    <h3>Hongxin Zhen</h3>
-    <p class="years">BSc Mathematics · 2025 – present</p>
-    <p class="topic">Deep Inverse Problems</p>
-    <p class="role-note">Co-supervised with Prof. Clarice Poon</p>
-  </div>
-
-  <div class="member-card intern-card">
-    <div class="member-label">URSS Intern</div>
-    <h3>Toby Williams</h3>
-    <p class="years">BSc Mathematics · 2025 – present</p>
-    <p class="topic">Deep Inverse Problems</p>
-    <p class="role-note">Co-supervised with Prof. Clarice Poon</p>
-  </div>
-
-
 </div>
 
+### Past Interns
 
-    </p>
+<div class="member-grid">
+
+  <div class="member-card alumni-card">
+    <div class="member-label">URSS Intern</div>
+    <h3>Jake Barton Salazar</h3>
+    <p class="years">BSc DCS · 2025</p>
+    <p class="topic">Parameter-Efficient Fine-Tuning of Foundation Models</p>
+    <p class="role-note">Co-supervised with Prof. Clarice Poon</p>
+  </div>
+
+  <div class="member-card alumni-card">
+    <div class="member-label">URSS Intern</div>
+    <h3>Thomas Yu</h3>
+    <p class="years">BSc Mathematics · 2025</p>
+    <p class="topic">Parameter-Efficient Fine-Tuning of Foundation Models</p>
+    <p class="role-note">Co-supervised with Prof. Clarice Poon</p>
+  </div>
+
+  <div class="member-card alumni-card">
+    <div class="member-label">URSS Intern</div>
+    <h3>Hongxin Zhen</h3>
+    <p class="years">BSc Mathematics · 2025</p>
+    <p class="topic">Deep Inverse Problems</p>
+    <p class="role-note">Co-supervised with Prof. Clarice Poon</p>
+  </div>
+
+  <div class="member-card alumni-card">
+    <div class="member-label">URSS Intern</div>
+    <h3>Toby Williams</h3>
+    <p class="years">BSc Mathematics · 2025</p>
+    <p class="topic">Deep Inverse Problems</p>
+    <p class="role-note">Co-supervised with Prof. Clarice Poon</p>
   </div>
 
 </div>
