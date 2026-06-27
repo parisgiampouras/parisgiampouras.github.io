@@ -15,12 +15,11 @@ nav_order: 3
     <div class="repsai-kicker">Representational AI Lab</div>
 
 ```
-<h1>Representations for trustworthy, generative, and continual AI.</h1>
+<h1>Learning AI systems that adapt, align, and forget only when needed.</h1>
 
 <p class="repsai-subtitle">
-  We develop machine learning methods for learning, aligning, and adapting representations
-  in modern AI systems, with applications in generative modeling, inverse problems,
-  scientific AI, and agentic learning.
+  RepsAI develops machine learning methods for building adaptive, aligned, and trustworthy AI systems
+  through representation learning, generative modeling, optimization, continual learning, and unlearning.
 </p>
 
 <div class="repsai-buttons">
@@ -40,9 +39,11 @@ nav_order: 3
 
 ## About the Lab
 
-The **Representational AI Lab (RepsAI)** develops machine learning methods for learning, aligning, and adapting representations in modern AI systems. Our work sits at the intersection of **representation learning**, **generative modeling**, **optimization**, **continual learning**, and **agentic AI**.
+The **Representational AI Lab (RepsAI)** develops machine learning methods for building AI systems that can **adapt to new data and tasks**, **align with desired representations and objectives**, and **forget information only when needed**.
 
-We are particularly interested in understanding how representations can make AI systems more **robust**, **adaptive**, **controllable**, and **trustworthy**, with applications ranging from inverse problems and scientific AI to foundation models and LLM agents.
+Our work sits at the intersection of **representation learning**, **generative modeling**, **optimization**, **continual learning**, **unlearning**, and **agentic AI**. We are particularly interested in how representations can make modern AI systems more **robust**, **controllable**, **efficient**, and **trustworthy**.
+
+Applications of our work include inverse problems, scientific AI, computational pathology, foundation model adaptation, diffusion and flow-based generative models, and LLM agents.
 
 <!-- ========= RESEARCH AREAS ========= -->
 
@@ -51,26 +52,26 @@ We are particularly interested in understanding how representations can make AI 
 <div class="repsai-card-grid">
 
   <div class="repsai-topic-card">
-    <div class="repsai-icon">🧠</div>
-    <h3>Representation Learning</h3>
-    <p>
-      Learning structured, transferable, and interpretable representations for robust AI systems.
-    </p>
-  </div>
-
-  <div class="repsai-topic-card">
-    <div class="repsai-icon">✨</div>
-    <h3>Generative Models</h3>
-    <p>
-      Diffusion, flow-based, and latent-variable models for inverse problems and controllable generation.
-    </p>
-  </div>
-
-  <div class="repsai-topic-card">
     <div class="repsai-icon">🔁</div>
-    <h3>Continual AI</h3>
+    <h3>Adaptation</h3>
     <p>
-      Methods for adaptation, continual learning, unlearning, and robust deployment under distribution shift.
+      Methods for continual learning, test-time adaptation, and robust deployment under changing data distributions.
+    </p>
+  </div>
+
+  <div class="repsai-topic-card">
+    <div class="repsai-icon">🎯</div>
+    <h3>Alignment</h3>
+    <p>
+      Representation alignment, post-training, and controllable generative modeling for reliable AI systems.
+    </p>
+  </div>
+
+  <div class="repsai-topic-card">
+    <div class="repsai-icon">🧹</div>
+    <h3>Selective Forgetting</h3>
+    <p>
+      Unlearning and model editing methods that remove unwanted information while preserving useful knowledge.
     </p>
   </div>
 
@@ -78,7 +79,7 @@ We are particularly interested in understanding how representations can make AI 
     <div class="repsai-icon">🤖</div>
     <h3>Agentic AI</h3>
     <p>
-      Alignment, post-training, and reasoning methods for LLM agents and adaptive foundation models.
+      Reasoning, planning, and post-training methods for adaptive foundation models and LLM agents.
     </p>
   </div>
 
