@@ -15,7 +15,7 @@ nav_order: 3
   <div class="repsai-hero-text">
     <div class="repsai-kicker">Representational AI Lab</div>
 
-    <h1>Learning AI systems that adapt, align, and forget only when needed.</h1>
+    <h1>Learning AI systems that adapt, align, and evolve reliably.</h1>
 
     <p class="repsai-subtitle">
       RepsAI focuses on machine learning methods for building adaptive, aligned, and trustworthy AI systems
@@ -30,13 +30,13 @@ nav_order: 3
     <img src="{{ '/assets/img/repsai_lab.png' | relative_url }}" alt="RepsAI Lab" class="repsai-logo">
   </div>
 
-</div>
+
 
 <!-- ========= ABOUT ========= -->
 
 ## About the Lab
 
-The **Representational AI Lab (RepsAI)** focuses on machine learning methods for building AI systems that can **adapt to new data and tasks**, **align with desired representations and objectives**, and **forget information only when needed**.
+The **Representational AI Lab (RepsAI)** focuses on machine learning methods for building AI systems that can **adapt to new data and tasks**, **align with desired representations and objectives**, and **update their knowledge in a controlled and trustworthy way**.
 
 Our work sits at the intersection of **representation learning**, **generative modeling**, **optimization**, **continual learning**, and **agentic AI**. We are particularly interested in how representations can make modern AI systems more **robust**, **controllable**, **efficient**, and **trustworthy**.
 
@@ -61,14 +61,6 @@ Applications of our work include inverse problems, scientific AI, computational 
     <h3>Alignment</h3>
     <p>
       Representation alignment, post-training, and controllable generative modeling for reliable AI systems.
-    </p>
-  </div>
-
-  <div class="repsai-topic-card">
-    <div class="repsai-icon">🧹</div>
-    <h3>Selective Forgetting</h3>
-    <p>
-     Continual learning  methods that address catastrophic forgetting and let models keep learning in long-horizon tasks.
     </p>
   </div>
 
