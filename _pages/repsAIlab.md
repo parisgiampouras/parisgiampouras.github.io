@@ -25,7 +25,6 @@ nav_order: 3
 <div class="repsai-buttons">
   <a href="/publications/" class="repsai-button primary">Publications</a>
 </div>
-```
 
   </div>
 
