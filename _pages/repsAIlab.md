@@ -462,7 +462,7 @@ Our research spans three connected areas: **machine-learning foundations**, incl
     <div class="repsai-icon">🤖</div>
     <h3>Autonomous & Self-Improving AI</h3>
     <p>
-      Autonomous research agents, test-time reasoning, and recursive self-improvement through
+       test-time scaling, and recursive self-improvement through
       exploration, memory, feedback, and continual adaptation.
     </p>
   </div>
