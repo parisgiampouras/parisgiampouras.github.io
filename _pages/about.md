@@ -16,7 +16,7 @@ social: true
   <div class="home-hero-text">
 
     <div class="hero-kicker">
-      Learning Foundations · Generative AI · Autonomous Agents
+      Foundations of Machine Learning · Generative AI · Autonomous Agents
     </div>
 
     <h2>
