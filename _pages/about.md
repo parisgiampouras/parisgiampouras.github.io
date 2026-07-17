@@ -60,31 +60,26 @@ Previously, I was a Research Faculty member at the [Mathematical Institute for D
     <div class="research-icon">🧠</div>
     <h3>Representation Learning</h3>
     <p>
-      Learning structured, robust, and transferable representations for modern AI systems.
+      Structured, transferable, and interpretable representations that support
+      adaptation, control, and reliable generalization.
     </p>
   </div>
 
   <div class="research-card">
     <div class="research-icon">✨</div>
-    <h3>Generative Models</h3>
+    <h3>Generative AI</h3>
     <p>
-      Diffusion, flow-based, and latent-variable models for inverse problems, science, and controllable generation.
-    </p>
-  </div>
-
-  <div class="research-card">
-    <div class="research-icon">⚙️</div>
-    <h3>Optimization & Inference</h3>
-    <p>
-      Optimization, probabilistic inference, and theory for scalable and reliable learning.
+      Representation-guided diffusion and flow-based models for controllable
+      generation, inverse problems, and scientific applications.
     </p>
   </div>
 
   <div class="research-card">
     <div class="research-icon">🤖</div>
-    <h3>Agentic & Continual AI</h3>
+    <h3>Autonomous & Self-Improving Agents</h3>
     <p>
-      Adaptation, alignment, post-training, and continual-learning methods for LLM agents.
+      Autonomous research agents, test-time reasoning, and recursive
+      self-improvement through feedback, memory, exploration, and continual adaptation.
     </p>
   </div>
 
