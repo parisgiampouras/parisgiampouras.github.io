@@ -1,14 +1,14 @@
 ---
 layout: page
-title: RepsAI Lab
+title: RAISE Lab
 nav: true
-description: Representational AI Lab
+description: Reliable, Adaptive, and Self-Improving AI Lab
 permalink: /repsai/
 nav_order: 3
 ---
 
 <style>
-  /* ========= REPSAI PAGE ========= */
+  /* ========= RAISE LAB PAGE ========= */
 
   .repsai-page {
     margin-top: 0.5rem;
@@ -40,6 +40,31 @@ nav_order: 3
   border-radius: 1.25rem;
   box-shadow: 0 14px 30px rgba(15, 23, 42, 0.16);
   border: 4px solid rgba(255, 255, 255, 0.95);
+}
+
+.raise-wordmark {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 230px;
+  height: 230px;
+  margin-left: auto;
+  border-radius: 1.25rem;
+  color: #ffffff;
+  background: linear-gradient(145deg, #1d4ed8 0%, #0284c7 100%);
+  border: 4px solid rgba(255, 255, 255, 0.95);
+  box-shadow: 0 14px 30px rgba(15, 23, 42, 0.16);
+  font-size: 2.3rem;
+  font-weight: 850;
+  letter-spacing: -0.05em;
+}
+
+.raise-wordmark span {
+  margin-top: 0.2rem;
+  font-size: 0.78rem;
+  font-weight: 750;
+  letter-spacing: 0.28em;
 }
   
 
@@ -292,6 +317,13 @@ nav_order: 3
       max-width: 160px;
     }
 
+    .raise-wordmark {
+      width: 160px;
+      height: 160px;
+      margin-left: 0;
+      font-size: 1.8rem;
+    }
+
     .member-grid,
     .repsai-card-grid {
       grid-template-columns: 1fr;
@@ -325,6 +357,11 @@ html[data-theme='dark'] .repsai-subtitle {
 }
 
 html[data-theme='dark'] .repsai-logo {
+  border-color: rgba(15, 23, 42, 0.9);
+  box-shadow: 0 16px 34px rgba(0, 0, 0, 0.38);
+}
+
+html[data-theme='dark'] .raise-wordmark {
   border-color: rgba(15, 23, 42, 0.9);
   box-shadow: 0 16px 34px rgba(0, 0, 0, 0.38);
 }
@@ -364,20 +401,23 @@ html[data-theme='dark'] .repsai-topic-card p {
 <div class="repsai-hero">
 
   <div class="repsai-hero-text">
-    <div class="repsai-kicker">Representational AI Lab</div>
+    <div class="repsai-kicker">Reliable · Adaptive · Self-Improving AI</div>
 
-    <h1>Learning AI systems that adapt, align, and evolve reliably.</h1>
+    <h1>Building robust, adaptive, and self-improving AI systems.</h1>
 
     <p class="repsai-subtitle">
-      RepsAI develops machine learning methods for building adaptive, aligned, and trustworthy AI systems
-      through representation learning, generative modeling, optimization, continual learning, and unlearning.
+      RAISE develops learning algorithms for generative models and autonomous research agents,
+      drawing on optimization, probabilistic inference, representation learning, and control.
     </p>
 
     <a href="/publications/" class="repsai-button">Publications</a>
   </div>
 
   <div class="repsai-logo-wrap">
-    <img src="/assets/img/repsai_lab.png" alt="RepsAI Lab" class="repsai-logo">
+    <div class="raise-wordmark" aria-label="RAISE Lab">
+      RAISE
+      <span>LAB</span>
+    </div>
   </div>
 
 </div>
@@ -387,11 +427,11 @@ html[data-theme='dark'] .repsai-topic-card p {
 
 ## About the Lab
 
-The **Representational AI Lab (RepsAI)** focuses on machine learning methods for building AI systems that can **adapt to new data and tasks**, **align with desired representations and objectives**, and **update their knowledge in a controlled and trustworthy way**.
+The **Reliable, Adaptive, and Self-Improving AI Lab (RAISE)** develops machine learning methods for AI systems that can **adapt to new tasks**, **learn from feedback**, and **improve their capabilities reliably over time**.
 
-Our work sits at the intersection of **representation learning**, **generative modeling**, **optimization**, **continual learning**, and **agentic AI**. We are particularly interested in how representations can make modern AI systems more **robust**, **controllable**, **efficient**, and **trustworthy**.
+Our research spans three connected areas: **machine-learning foundations**, including optimization, probabilistic inference, representation learning, and control; **generative AI**, particularly diffusion and flow-based models; and **autonomous, self-improving AI**, including research agents, test-time reasoning, and continual adaptation.
 
-Applications of our work include inverse problems, scientific AI, computational pathology, foundation model adaptation, diffusion and flow-based generative models, and LLM agents.
+A central goal is to develop agents that improve through structured exploration, memory, feedback, and self-evaluation without becoming trapped in local optima. Applications include inverse problems, scientific AI, computational pathology, foundation-model adaptation, and autonomous research.
 
 <!-- ========= RESEARCH THEMES ========= -->
 
@@ -402,38 +442,29 @@ Applications of our work include inverse problems, scientific AI, computational 
 <div class="repsai-card-grid">
 
   <div class="repsai-topic-card">
-    <div class="repsai-icon">🧠</div>
-    <h3>Representation Learning</h3>
+    <div class="repsai-icon">⚙️</div>
+    <h3>Foundations of Learning</h3>
     <p>
-      Learning structured, robust, and transferable representations that support adaptation,
-      alignment, and reliable generalization.
+      Optimization, probabilistic inference, representation learning, and control for robust,
+      efficient, and scalable learning systems.
     </p>
   </div>
 
   <div class="repsai-topic-card">
     <div class="repsai-icon">✨</div>
-    <h3>Generative Models</h3>
+    <h3>Generative AI</h3>
     <p>
-      Diffusion, flow-based, and latent-variable models for inverse problems, scientific AI,
-      and controllable generation.
-    </p>
-  </div>
-
-  <div class="repsai-topic-card">
-    <div class="repsai-icon">⚙️</div>
-    <h3>Optimization & Inference</h3>
-    <p>
-      Optimization, probabilistic inference, and theory for scalable, efficient, and reliable
-      learning systems.
+      Diffusion, flow-based, and latent-variable models for controllable generation,
+      inverse problems, and scientific applications.
     </p>
   </div>
 
   <div class="repsai-topic-card">
     <div class="repsai-icon">🤖</div>
-    <h3>Agentic & Continual AI</h3>
+    <h3>Autonomous & Self-Improving AI</h3>
     <p>
-      Adaptation, alignment, post-training, unlearning, and continual-learning methods for
-      foundation models and LLM agents.
+      Autonomous research agents, test-time reasoning, and recursive self-improvement through
+      exploration, memory, feedback, and continual adaptation.
     </p>
   </div>
 
