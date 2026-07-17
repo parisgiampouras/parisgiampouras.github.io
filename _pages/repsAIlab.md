@@ -406,7 +406,7 @@ html[data-theme='dark'] .repsai-topic-card p {
     <h1>Building robust, adaptive, and self-improving AI systems.</h1>
 
     <p class="repsai-subtitle">
-      RAISE develops learning algorithms for generative models and autonomous research agents,
+      RAISE develops learning algorithms for generative models and agentic AI systems
       drawing on optimization, probabilistic inference, representation learning, and control.
     </p>
 
@@ -429,9 +429,8 @@ html[data-theme='dark'] .repsai-topic-card p {
 
 The **Reliable, Adaptive, and Self-Improving AI Lab (RAISE)** develops machine learning methods for AI systems that can **adapt to new tasks**, **learn from feedback**, and **improve their capabilities reliably over time**.
 
-Our research spans three connected areas: **machine-learning foundations**, including optimization, probabilistic inference, representation learning, and control; **generative AI**, particularly diffusion and flow-based models; and **autonomous, self-improving AI**, including research agents, test-time reasoning, and continual adaptation.
+Our research spans three connected areas: **machine-learning foundations**, including optimization, probabilistic inference, representation learning, and control; **generative AI**, particularly diffusion and flow-based models; and **autonomous, self-improving AI**, including  test-time scaling, and continual adaptation.
 
-A central goal is to develop agents that improve through structured exploration, memory, feedback, and self-evaluation without becoming trapped in local optima. Applications include inverse problems, scientific AI, computational pathology, foundation-model adaptation, and autonomous research.
 
 <!-- ========= RESEARCH THEMES ========= -->
 
