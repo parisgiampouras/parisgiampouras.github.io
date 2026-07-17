@@ -115,7 +115,7 @@ A central goal is to develop agents that improve through structured exploration,
 
 </div>
 
-**RAISE Lab develops foundations and algorithms for Reliable, Adaptive, and Self-Improving AI. Our research spans learning theory and optimization, generative models, autonomous research agents, continual adaptation, and test-time improvement. [Learn more about the lab](/repsai/).**
+**RAISE Lab develops foundations and algorithms for Reliable, Adaptive, and Self-Improving AI. Our research spans learning theory and optimization, generative models, continual adaptation, and test-time scaling. [Learn more about the lab](/repsai/).**
 
 **I was a co-organizer of the [ReALM–GEN workshop at ICLR 2026](https://realm-gen-workshop.github.io/), which brought together researchers working on constrained and preference-aligned diffusion and flow-based generative models. The workshop material is available on the [ICLR virtual platform](https://iclr.cc/virtual/2026/workshop/10000793).**
 
