@@ -93,11 +93,8 @@ Previously, I was a Research Faculty member at the [Mathematical Institute for D
 
 My research aims to develop **robust, adaptive, and self-improving AI systems**. I am interested in the algorithms and learning principles that enable AI systems to acquire useful internal representations, adapt to new tasks and environments, and improve their capabilities through experience and feedback.
 
-My work currently follows three closely connected directions. The first studies the **foundations of machine learning**, including optimization, probabilistic inference, representation learning, robustness, and learning theory. The second develops **generative models**, particularly diffusion and flow-based models for controllable generation, inverse problems, and scientific applications. The third investigates **autonomous and self-improving AI**, with an emphasis on autonomous research agents, test-time reasoning, continual adaptation, and recursive self-improvement.
-
-A central question underlying my recent research is how autonomous agents can improve their own reasoning and research processes without repeatedly converging to similar solutions or becoming trapped in local optima. I am particularly interested in methods that combine structured exploration, memory, self-evaluation, feedback-driven refinement, and the reliable accumulation of capabilities across successive improvement cycles.
-
-Recent work includes adaptive optimizers for training foundation models, robust federated learning through generalized variational inference, and theory and algorithms for overparameterized recovery and robust tensor methods. I also work on steering diffusion and flow-based models through representational alignment, as well as post-training and test-time methods for adaptive language-model agents.
+My research spans three connected areas: machine-learning foundations, including optimization, inference, and representation learning; generative models, particularly diffusion and flow-based methods; and autonomous, self-improving AI, including research agents, test-time scaling methods, and continual adaptation.
+A central goal is to develop agents that improve through structured exploration, memory, feedback, and self-evaluation without becoming trapped in local optima. Recent work includes optimization for foundation models, robust federated inference, representational alignment for generative models, and post-training methods for adaptive AI agents.
 
 <div class="highlight-strip">
 
