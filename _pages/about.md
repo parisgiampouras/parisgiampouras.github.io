@@ -93,8 +93,8 @@ Previously, I was a Research Faculty member at the [Mathematical Institute for D
 
 My research aims to develop **robust, adaptive, and self-improving AI systems**. I am interested in the algorithms and learning principles that enable AI systems to acquire useful internal representations, adapt to new tasks and environments, and improve their capabilities through experience and feedback.
 
-My research spans three connected areas: machine-learning foundations, including optimization, inference, and representation learning; generative models, particularly diffusion and flow-based methods; and autonomous, self-improving AI, including research agents, test-time scaling methods, and continual adaptation.
-A central goal is to develop agents that improve through structured exploration, memory, feedback, and self-evaluation without becoming trapped in local optima. Recent work includes optimization for foundation models, robust federated inference, representational alignment for generative models, and post-training methods for adaptive AI agents.
+My research spans three connected areas: machine-learning foundations, including optimization, inference, and representation learning; generative models, particularly focusing postraining of diffusion and flow-based methods; and autonomous, self-improving AI, including AI research agents, test-time scaling methods, and continual adaptation.
+Recent work includes optimization for foundation models, robust federated inference, representational alignment for generative models, and post-training methods for diffusion/flow models.
 
 <div class="highlight-strip">
 
