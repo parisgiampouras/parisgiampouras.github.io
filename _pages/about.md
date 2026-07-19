@@ -66,7 +66,7 @@ Previously, I was a Research Faculty member at the [Mathematical Institute for D
     <div class="research-icon">⚙️</div>
     <h3>Foundations of Machine Learning</h3>
     <p>
-      Optimization, probabilistic inference, representation learning, and theory
+      Optimization, post-training, probabilistic inference, representation learning, and theory
       for robust, efficient, and scalable learning systems.
     </p>
   </div>
