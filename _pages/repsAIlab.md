@@ -407,7 +407,7 @@ html[data-theme='dark'] .repsai-topic-card p {
 
     <p class="repsai-subtitle">
       RAISE develops learning algorithms for generative models and agentic AI systems
-      drawing on optimization, probabilistic inference, representation learning, and control.
+      drawing on optimization, probabilistic inference, and representation learning.
     </p>
 
     <a href="/publications/" class="repsai-button">Publications</a>
@@ -442,9 +442,9 @@ Our research spans three connected areas: **machine-learning foundations**, incl
 
   <div class="repsai-topic-card">
     <div class="repsai-icon">⚙️</div>
-    <h3>Foundations of Learning</h3>
+    <h3>Foundations of Machine Learning</h3>
     <p>
-      Optimization, probabilistic inference, representation learning, and control for robust,
+      Optimization, probabilistic inference, and representation learning, for robust,
       efficient, and scalable learning systems.
     </p>
   </div>
