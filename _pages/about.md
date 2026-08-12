@@ -25,8 +25,8 @@ social: true
 
     <p class="hero-subtitle">
       I develop learning algorithms for generative models and autonomous research
-      agents, drawing on optimization, probabilistic inference, representation
-      learning, and control.
+      agents, drawing on optimization, probabilistic inference, and representation
+      learning.
     </p>
 
     <div class="hero-buttons">
