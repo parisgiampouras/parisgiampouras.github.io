@@ -103,7 +103,6 @@ Examples of my work include:
 - **Representation alignment:** [Align & Invert](https://arxiv.org/abs/2511.16870) (NeurIPS 2026) applies alignment with pretrained visual encoders at inference time to improve image reconstruction with diffusion and flow models.
 - **Efficient foundation-model training:** [DES-LOC](https://arxiv.org/abs/2505.22549) (ICLR 2026) develops adaptive optimizers that reduce communication costs while preserving convergence guarantees.
 - **Continual learning:** [The Ideal Continual Learner](https://proceedings.mlr.press/v202/peng23a.html) (ICML 2023) provides a theoretical framework for learning sequential tasks without catastrophic forgetting.
-- **Automated research:** [AI Research Preference Models](https://arxiv.org/abs/2608.13940) (2026) introduces models that help research agents select promising experiments under a limited execution budget.
 
 <div class="highlight-strip">
 
