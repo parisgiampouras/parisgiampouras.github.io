@@ -1,34 +1,39 @@
 ---
 layout: page
-title: Continual Learning
-description: Theory and Algorithms
+title: Continual Learning & Adaptation
+description: Sequential learning, retention of prior knowledge, and efficient model adaptation.
 img: assets/img/CL_paper_graphic.001.png
-redirect: 
-importance: 4
+importance: 6
 category: research
 ---
 
-## Theory of Continual Learning 
+AI systems encounter new tasks and changing environments throughout their lifetime. My research studies how they can adapt while retaining previously acquired knowledge, combining theoretical frameworks with practical learning algorithms.
 
-The goal of continual learning is to find a model that solves multiple learning tasks which are presented sequentially to the learner. A key challenge in this setting is that the learner may forget how to solve a previous task when learning a new task, a phenomenon known as catastrophic forgetting. To address this challenge, many practical methods have been proposed, including memory-based, regularization-based, and expansion-based methods. However, a rigorous theoretical understanding of these methods remains elusive. This paper aims to bridge this gap between theory and practice by proposing a new continual learning framework called Ideal Continual Learner (ICL), which is guaranteed to avoid catastrophic forgetting by construction. We show that ICL unifies multiple well-established continual learning methods and gives new theoretical insights into the strengths and weaknesses of these methods. We also derive generalization bounds for ICL which allow us to theoretically quantify how rehearsal affects generalization. Finally, we connect ICL to several classic subjects and research topics of modern interest, which allows us to make historical remarks and inspire future directions.
+## Foundations of continual learning
 
-<div class="row">
-    <div class="col-sm-6 mx-auto mt-5">
-        {% include figure.html path="assets/img/connection.png" title="The unifying Ideal Continual Learning Framework and Related Approaches, [1]" class="img-fluid rounded shadow-lg" %}
-    </div>
-</div>
-
-## A Task Agnostic Continual Learning Algorithm
-
-We consider the problem of learning multiple tasks in a continual learning setting in which data from different tasks is presented to the learner in a streaming fashion. A key challenge in this setting is the so-called catastrophic forgetting problem, in which the performance of the learner in an old task decreases when subsequently trained on a new task. In this paper, we alleviate the need to provide the algorithm with information about task changes while requiring constant memory about prior tasks by dynamically updating a finite pool of samples or gradients in a task-agnostic manner using a simple and efficient online clustering-based approach. 
+The Ideal Continual Learner framework formalizes learning without forgetting through an idealized construction. It unifies established approaches and clarifies the roles of memory, constraints, and model capacity. We also derive generalization bounds that quantify the effect of rehearsal.
 
 <div class="row">
-    <div class="col-sm-10 mx-auto mt-5">
-        {% include figure.html path="assets/img/CL_paper_graphic.001.png" title="A Clustering-based Task Agnostic Continual Learning Algorithm, [2]" class="img-fluid rounded shadow-lg" %}
-    </div>
+  <div class="col-sm-8 mx-auto mt-3">
+    {% include figure.html path="assets/img/connection.png" alt="Connections between the Ideal Continual Learner and established methods" class="img-fluid rounded z-depth-1" %}
+  </div>
 </div>
 
-## References
+## Adapting without explicit task boundaries
 
-1. L. Peng, P. V. Giampouras, R. Vidal, "The Ideal Continual Learner: An Agent that Never Forgets", ICML, 2023
-2. C. Lamers, R. Vidal, N. Belbachir, N. van Stein, T. Baeck, P. V. Giampouras, "A Clustering-based Task Agnostic Continual Learning Algorithm", (under review), 2023
+In domain-incremental learning, task changes may be unobserved. Our clustering-based approach maintains a finite pool of samples or gradients and uses online clustering to support task-agnostic versions of projection-based methods.
+
+<div class="row">
+  <div class="col-sm-10 mx-auto mt-3">
+    {% include figure.html path="assets/img/CL_paper_graphic.001.png" alt="Clustering-based domain-incremental learning" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
+## Continual and parameter-efficient adaptation of LLMs
+
+My current interests include continual adaptation of language models, structured parameter updates, and learning from feedback. These directions connect continual-learning foundations with post-training and the development of adaptive AI agents.
+
+## Selected publications
+
+- Liangzu Peng, Paris Giampouras, and René Vidal. [**The Ideal Continual Learner: An Agent That Never Forgets**](https://proceedings.mlr.press/v202/peng23a.html). ICML 2023.
+- Christiaan Lamers, René Vidal, Nabil Belbachir, Niki van Stein, Thomas Bäeck, and Paris Giampouras. [**Clustering-Based Domain-Incremental Learning**](https://openaccess.thecvf.com/content/ICCV2023W/VCL/html/Lamers_Clustering-Based_Domain-Incremental_Learning_ICCVW_2023_paper.html). ICCV Workshop on Visual Continual Learning, 2023.

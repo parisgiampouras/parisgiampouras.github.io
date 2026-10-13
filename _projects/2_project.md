@@ -1,21 +1,30 @@
 ---
 layout: page
-title: Matrix Factorization
-description: A Novel Variational Form of the Schatten-p Quasi-Norm
+title: Low-Rank Learning & Optimization
+description: Matrix factorization, implicit regularization, and efficient optimization with guarantees.
 img: assets/img/graphic_neurips.jpg
-importance: 2
+importance: 4
 category: research
 ---
 
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-md-8 mx-auto text-center">
-            <img src="{{ site.url }}/{{ page.img }}" class="img-fluid rounded shadow-lg" alt="{{ page.title }}">
-            <div class="caption text-muted mt-3"><small>{{ page.title }}</small></div>
-        </div>
-    </div>
-</div>
+Low-rank structure represents high-dimensional data and parameters using compact factors. I develop optimization methods that exploit this structure, identify model complexity, and remain reliable under corrupted measurements.
 
-In this work we aim to reduce the high computational cost induced by Schatten-p quasi-norm minimization, variational forms, which are defined over smaller-size matrix factors whose product equals the original matrix, have been proposed. Here, we propose and analyze a novel variational form of Schatten-p quasi-norm which, for the first time in the literature, is defined for any continuous value of p ∈ (0, 1] and decouples along the columns of the factorized matrices. The proposed form can be considered as the natural generalization of the well-known variational form of the nuclear norm to the nonconvex case i.e., for p ∈ (0, 1). Notably, low-rankness is now imposed via a group-sparsity promoting regularizer. The resulting formulation gives way to SVD-free algorithms thus offering lower computational complexity than the one that is induced by the original definition of the Schatten-p quasi-norm. A local optimality analysis is provided which shows that we can arrive at a local minimum of the original Schatten-p quasi-norm problem by reaching a local minimum of the matrix factorization based surrogate problem. In addition, for the case of the squared Frobenius loss with linear operators obeying the restricted isometry property (RIP), a rank-one update scheme is proposed, which offers a way to escape poor local minima.
+## Robust recovery with unknown rank
 
-[1] Paris Giampouras, René Vidal, Athanasios Rontogiannis, Benjamin Haeffele, "A novel variational form of the Schatten-p quasi-norm", NeurIPS, 2020.
+Our ICML 2025 work analyzes an overparameterized, preconditioned subgradient algorithm for recovering asymmetric low-rank matrices from corrupted measurements. The analysis establishes linear convergence rates independent of the true rank under the stated assumptions, addressing recovery when the rank is unknown.
+
+## Nonconvex low-rank regularization
+
+Our NeurIPS 2020 work develops a variational representation of the Schatten-$p$ quasi-norm for $p \in (0,1]$. Expressing the regularizer through matrix factors connects rank selection to group sparsity and enables algorithms that avoid repeated singular value decompositions.
+
+{% include figure.html path="assets/img/graphic_neurips.jpg" alt="Variational low-rank matrix factorization framework" class="img-fluid rounded z-depth-1" %}
+
+## Parameter-efficient adaptation
+
+A current research direction is to use low-rank structure for parameter-efficient fine-tuning of foundation models, including language, diffusion, and flow-based models. This connects my work on structured optimization with efficient model adaptation.
+
+## Selected publications
+
+- Paris Giampouras, Hanqin Cai, and René Vidal. [**Guarantees of a Preconditioned Subgradient Algorithm for Overparameterized Asymmetric Low-rank Matrix Recovery**](https://proceedings.mlr.press/v267/giampouras25a.html). ICML 2025.
+- Paris Giampouras, René Vidal, Athanasios Rontogiannis, and Benjamin Haeffele. [**A Novel Variational Form of the Schatten-p Quasi-Norm**](https://proceedings.neurips.cc/paper/2020/file/f53eb4122d5e2ce81a12093f8f9ce922-Paper.pdf). NeurIPS 2020.
+- Paris Giampouras, Athanasios Rontogiannis, and Konstantinos Koutroumbas. [**Alternating Iteratively Reweighted Least Squares Minimization for Low-Rank Matrix Factorization**](https://doi.org/10.1109/TSP.2018.2883921). IEEE Transactions on Signal Processing, 2019.
