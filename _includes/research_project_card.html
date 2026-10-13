@@ -1,0 +1,14 @@
+<article class="research-project-card">
+  <a class="research-project-card__link" href="{{ project.url | relative_url }}">
+    {%- if project.img %}
+    <div class="research-project-card__image">
+      {% include figure.html path=project.img alt=project.title %}
+    </div>
+    {%- endif %}
+    <div class="research-project-card__body">
+      <h2 class="research-project-card__title">{{ project.title }}</h2>
+      <p class="research-project-card__description">{{ project.description }}</p>
+      <span class="research-project-card__more">Explore project <span aria-hidden="true">&rarr;</span></span>
+    </div>
+  </a>
+</article>
