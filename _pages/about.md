@@ -101,6 +101,7 @@ At Meta, my work includes contributions to the post-training pipeline for **Muse
 Examples of my work include:
 
 - **Representation alignment:** [Align & Invert](https://arxiv.org/abs/2511.16870) (NeurIPS 2026) applies alignment with pretrained visual encoders at inference time to improve image reconstruction with diffusion and flow models.
+- **Causal abstraction and transportability:** [Distributionally Robust Causal Abstractions](https://proceedings.mlr.press/v306/felekis26a.html) (ICML 2026) and [Generalised Transportability via Causal Abstractions](https://arxiv.org/abs/2608.15645) (2026) develop theory and algorithms for robust causal modelling and transferring causal conclusions across environments and populations.
 - **Efficient foundation-model training:** [DES-LOC](https://arxiv.org/abs/2505.22549) (ICLR 2026) develops adaptive optimizers that reduce communication costs while preserving convergence guarantees.
 - **Continual learning:** [The Ideal Continual Learner](https://proceedings.mlr.press/v202/peng23a.html) (ICML 2023) provides a theoretical framework for learning sequential tasks without catastrophic forgetting.
 
